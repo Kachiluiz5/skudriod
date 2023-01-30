@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.yolotheme.com	TRUE	/giraffe/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.yolotheme.com	TRUE	/giraffe/	FALSE	1999999999	wp_woocommerce_session_a912aa02a4bb606cd82ff3a90d78d1a0	e92971bf07fc25ebac4e2625c1c2a4dc%7C%7C1671272711%7C%7C1671269111%7C%7C84055d68667dcf0df3e1c643ceae8e87
+demo.yolotheme.com	TRUE	/giraffe/	FALSE	1999999999	yith_woocompare_list	%5B3692%2C3695%2C3694%2C3696%2C3691%2C3686%2C3688%2C3690%2C3663%2C3693%2C3687%2C3698%5D
+demo.yolotheme.com	TRUE	/giraffe/	FALSE	1999999999	woocommerce_cart_hash	aaa92d7d9324a6e36dd3f8cc48e54b01
+

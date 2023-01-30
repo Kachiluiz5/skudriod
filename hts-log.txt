@@ -1,0 +1,281 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 15 Dec 2022 11:16:08 at https://demo.yolotheme.com/giraffe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.yolotheme.com/giraffe/ -O1 "C:\Users\USER\Desktop\New folder (2)\Skudroid" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:30	Error: 	"Method Not Allowed" (405) at link https://demo.yolotheme.com/giraffe/xmlrpc.php (from https://demo.yolotheme.com/giraffe/)
+11:20:54	Warning: 	Warning: store application/octet-stream without scan: C:/Users/USER/Desktop/New folder (2)/Skudroid/demo.yolotheme.com/giraffe/wp-content/themes/yolo-giraffe/assets/svg/puff.svg
+11:26:15	Error: 	"Not Found" (404) at link https://demo.yolotheme.com/giraffe/404 (from https://demo.yolotheme.com/giraffe/)
+11:26:15	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-bg-scaled.jpg (from https://demo.yolotheme.com/giraffe/)
+11:26:17	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-1/image-1.png (from https://demo.yolotheme.com/giraffe/)
+11:28:11	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/home/
+11:28:11	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/home/ to https://demo.yolotheme.com/giraffe/
+11:29:29	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=4425
+11:29:29	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=4425 to https://demo.yolotheme.com/giraffe/home-page-2/
+11:29:38	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider1.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:29:38	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2019/05/scroll.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:30:15	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?post_type=post&p=3573
+11:30:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?post_type=post&p=3573 to https://demo.yolotheme.com/giraffe/full-day-session-with-new-activities/
+11:30:15	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?post_type=post&p=3571
+11:30:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?post_type=post&p=3571 to https://demo.yolotheme.com/giraffe/how-to-draw-a-school-step-by-step/
+11:30:15	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?post_type=post&p=3569
+11:30:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?post_type=post&p=3569 to https://demo.yolotheme.com/giraffe/helping-your-child-with-socialization/
+11:30:15	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?post_type=post&p=3567
+11:30:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?post_type=post&p=3567 to https://demo.yolotheme.com/giraffe/20-fun-activities-to-do-with-your-kids/
+11:30:17	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=678
+11:30:17	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=678 to https://demo.yolotheme.com/giraffe/home-page-3/
+11:30:17	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-03.jpg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:30:17	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-07.jpeg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:30:40	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=4705
+11:30:40	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=4705 to https://demo.yolotheme.com/giraffe/home-page-4/
+11:30:40	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-6/2.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:30:41	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/005-books-1.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:30:41	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/012-medal.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:30:41	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/002-bus.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:30:41	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=331
+11:30:41	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=331 to https://demo.yolotheme.com/giraffe/home-page-5/
+11:30:42	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider2.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:30:42	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/text2.png (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:30:42	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider3.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:30:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=453
+11:30:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=453 to https://demo.yolotheme.com/giraffe/home-page-6/
+11:30:56	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider4.jpg (from https://demo.yolotheme.com/giraffe/home-page-6/)
+11:31:10	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=4791
+11:31:10	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=4791 to https://demo.yolotheme.com/giraffe/home-page-7/
+11:31:10	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-4/slide-02.jpg (from https://demo.yolotheme.com/giraffe/home-page-7/)
+11:31:30	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=1321
+11:31:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=1321 to https://demo.yolotheme.com/giraffe/our-program/
+11:31:30	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=1555
+11:31:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=1555 to https://demo.yolotheme.com/giraffe/our-events/
+11:31:30	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=229
+11:31:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=229 to https://demo.yolotheme.com/giraffe/events/art-program-for-kids/
+11:31:49	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=846
+11:31:49	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=846 to https://demo.yolotheme.com/giraffe/timetable/
+11:31:49	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=533
+11:31:49	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=533 to https://demo.yolotheme.com/giraffe/our-classes/
+11:31:49	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=115
+11:31:49	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=115 to https://demo.yolotheme.com/giraffe/classes/color-match-class/
+11:31:56	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=226
+11:31:56	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=226 to https://demo.yolotheme.com/giraffe/teachers-classic/
+11:31:56	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=2076
+11:31:56	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=2076 to https://demo.yolotheme.com/giraffe/teachers-colors/
+11:31:56	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=2081
+11:31:56	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=2081 to https://demo.yolotheme.com/giraffe/teachers/alice-bohm/
+11:39:09	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=1382
+11:39:09	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=1382 to https://demo.yolotheme.com/giraffe/about-us/
+11:39:10	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=1284
+11:39:10	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=1284 to https://demo.yolotheme.com/giraffe/contact/
+11:39:16	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-bg-scaled.jpg (from https://demo.yolotheme.com/giraffe/)
+11:39:19	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-1/image-1.png (from https://demo.yolotheme.com/giraffe/)
+11:39:22	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3630
+11:39:22	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3630 to https://demo.yolotheme.com/giraffe/classes/pre-school-class/
+11:39:23	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=40
+11:39:23	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=40 to https://demo.yolotheme.com/giraffe/teachers/linda-glendell/
+11:39:25	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=116
+11:39:25	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=116 to https://demo.yolotheme.com/giraffe/classes/swimming-lesson-class/
+11:39:30	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=54
+11:39:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=54 to https://demo.yolotheme.com/giraffe/teachers/amy-adams/
+11:39:33	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=58
+11:39:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=58 to https://demo.yolotheme.com/giraffe/teachers/jenny-hilton/
+11:39:38	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=56
+11:39:38	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=56 to https://demo.yolotheme.com/giraffe/teachers/phill-rose/
+11:39:42	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=114
+11:39:42	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=114 to https://demo.yolotheme.com/giraffe/classes/outdoor-sport-class/
+11:39:52	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=59
+11:39:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=59 to https://demo.yolotheme.com/giraffe/teachers/emily-backham/
+11:39:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=113
+11:39:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=113 to https://demo.yolotheme.com/giraffe/classes/music-lesson-class/
+11:39:58	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=61
+11:39:58	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=61 to https://demo.yolotheme.com/giraffe/teachers/grom-frog/
+11:39:58	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=111
+11:39:58	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=111 to https://demo.yolotheme.com/giraffe/classes/learning-computer-skill/
+11:40:03	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=57
+11:40:03	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=57 to https://demo.yolotheme.com/giraffe/teachers/james-doe/
+11:40:04	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=55
+11:40:04	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=55 to https://demo.yolotheme.com/giraffe/teachers/jack-daniels/
+11:40:04	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3573
+11:40:04	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3573 to https://demo.yolotheme.com/giraffe/full-day-session-with-new-activities/
+11:40:04	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3571
+11:40:04	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3571 to https://demo.yolotheme.com/giraffe/how-to-draw-a-school-step-by-step/
+11:40:05	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3569
+11:40:05	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3569 to https://demo.yolotheme.com/giraffe/helping-your-child-with-socialization/
+11:40:05	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3567
+11:40:05	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3567 to https://demo.yolotheme.com/giraffe/20-fun-activities-to-do-with-your-kids/
+11:40:10	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=2670
+11:40:10	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=2670 to https://demo.yolotheme.com/giraffe/myaccount/
+11:40:18	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider1.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:40:18	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2019/05/scroll.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:40:18	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=981
+11:40:18	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=981 to https://demo.yolotheme.com/giraffe/events/summer-camp/
+11:40:21	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=978
+11:40:21	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=978 to https://demo.yolotheme.com/giraffe/events/music-for-toddlers/
+11:40:21	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3286
+11:40:21	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3286 to https://demo.yolotheme.com/giraffe/events/science-class-for-toddlers/
+11:40:21	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=976
+11:40:21	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=976 to https://demo.yolotheme.com/giraffe/events/family-field-day/
+11:40:23	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-03.jpg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:40:23	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-07.jpeg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:40:23	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=100
+11:40:23	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=100 to https://demo.yolotheme.com/giraffe/classes/shapes-match-class/
+11:40:23	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-6/2.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:40:23	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/005-books-1.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:40:24	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/012-medal.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:40:24	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/002-bus.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:40:24	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider2.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:40:24	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/text2.png (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:40:25	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider3.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:40:25	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3565
+11:40:25	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3565 to https://demo.yolotheme.com/giraffe/psychology-may-be-you-completed-online/
+11:40:25	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=975
+11:40:25	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=975 to https://demo.yolotheme.com/giraffe/events/giraffe-kite-festival/
+11:40:26	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider4.jpg (from https://demo.yolotheme.com/giraffe/home-page-6/)
+11:40:26	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=973
+11:40:26	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=973 to https://demo.yolotheme.com/giraffe/events/math-party/
+11:40:26	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=35
+11:40:26	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=35 to https://demo.yolotheme.com/giraffe/classes/drawing-learning-class/
+11:40:29	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-4/slide-02.jpg (from https://demo.yolotheme.com/giraffe/home-page-7/)
+11:40:29	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=970
+11:40:29	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=970 to https://demo.yolotheme.com/giraffe/events/childhood-colors/
+11:40:29	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=960
+11:40:29	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=960 to https://demo.yolotheme.com/giraffe/events/painting-class-for-young/
+11:40:46	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=110
+11:40:46	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=110 to https://demo.yolotheme.com/giraffe/classes/sciences-learning-class/
+11:40:49	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=102
+11:40:49	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=102 to https://demo.yolotheme.com/giraffe/classes/imagination-class/
+11:40:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3563
+11:40:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3563 to https://demo.yolotheme.com/giraffe/worlds-largest-online-learning-platform/
+11:40:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3561
+11:40:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3561 to https://demo.yolotheme.com/giraffe/after-school-activities-for-kids/
+11:40:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3559
+11:40:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3559 to https://demo.yolotheme.com/giraffe/misses-about-bette-davis-joan-crawford/
+11:41:03	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3692
+11:41:03	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3692 to https://demo.yolotheme.com/giraffe/product/ad-vim-dicunt-maiestatis/
+11:41:03	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/ad-vim-dicunt-maiestatis/?action=yith-woocompare-add-product&id=3692
+11:41:03	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/ad-vim-dicunt-maiestatis/?action=yith-woocompare-add-product&id=3692 to /giraffe/product/ad-vim-dicunt-maiestatis/
+11:41:41	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3695
+11:41:41	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3695 to https://demo.yolotheme.com/giraffe/product/duo-id-tractatos/
+11:41:46	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/duo-id-tractatos/?action=yith-woocompare-add-product&id=3695
+11:41:46	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/duo-id-tractatos/?action=yith-woocompare-add-product&id=3695 to /giraffe/product/duo-id-tractatos/
+11:42:56	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3694
+11:42:56	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3694 to https://demo.yolotheme.com/giraffe/product/ei-quaeque-molestie/
+11:44:29	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/ei-quaeque-molestie/?action=yith-woocompare-add-product&id=3694
+11:44:29	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/ei-quaeque-molestie/?action=yith-woocompare-add-product&id=3694 to /giraffe/product/ei-quaeque-molestie/
+11:44:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3696
+11:44:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3696 to https://demo.yolotheme.com/giraffe/product/ex-sea-cotidieque/
+11:44:55	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/ex-sea-cotidieque/?action=yith-woocompare-add-product&id=3696
+11:44:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/ex-sea-cotidieque/?action=yith-woocompare-add-product&id=3696 to /giraffe/product/ex-sea-cotidieque/
+11:45:11	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3691
+11:45:11	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3691 to https://demo.yolotheme.com/giraffe/product/nec-eros-illum-iudicabit/
+11:45:11	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/nec-eros-illum-iudicabit/?action=yith-woocompare-add-product&id=3691
+11:45:11	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/nec-eros-illum-iudicabit/?action=yith-woocompare-add-product&id=3691 to /giraffe/product/nec-eros-illum-iudicabit/
+11:45:30	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3686
+11:45:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3686 to https://demo.yolotheme.com/giraffe/product/qui-dolorem-ipsum-quia/
+11:45:30	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/qui-dolorem-ipsum-quia/?action=yith-woocompare-add-product&id=3686
+11:45:30	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/qui-dolorem-ipsum-quia/?action=yith-woocompare-add-product&id=3686 to /giraffe/product/qui-dolorem-ipsum-quia/
+11:45:43	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3688
+11:45:43	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3688 to https://demo.yolotheme.com/giraffe/product/quis-autem-vel-eum-iure/
+11:45:44	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/quis-autem-vel-eum-iure/?action=yith-woocompare-add-product&id=3688
+11:45:44	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/quis-autem-vel-eum-iure/?action=yith-woocompare-add-product&id=3688 to /giraffe/product/quis-autem-vel-eum-iure/
+11:45:55	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3690
+11:45:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3690 to https://demo.yolotheme.com/giraffe/product/reprehenderit-qui-in-ea/
+11:45:55	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/reprehenderit-qui-in-ea/?action=yith-woocompare-add-product&id=3690
+11:45:55	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/reprehenderit-qui-in-ea/?action=yith-woocompare-add-product&id=3690 to /giraffe/product/reprehenderit-qui-in-ea/
+11:46:08	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3663
+11:46:08	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3663 to https://demo.yolotheme.com/giraffe/product/sed-ut-perspiciatis-unde/
+11:46:08	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/sed-ut-perspiciatis-unde/?action=yith-woocompare-add-product&id=3663
+11:46:08	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/sed-ut-perspiciatis-unde/?action=yith-woocompare-add-product&id=3663 to /giraffe/product/sed-ut-perspiciatis-unde/
+11:46:27	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://demo.yolotheme.com/giraffe/product-category/accessories/?add-to-cart=3687 (from https://demo.yolotheme.com/giraffe/product-category/accessories/)
+11:46:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.yolotheme.com/giraffe/product-category/babies/?add-to-cart=3693 (from https://demo.yolotheme.com/giraffe/product-category/babies/)
+11:46:35	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://demo.yolotheme.com/giraffe/product-category/child-care/?add-to-cart=3690 (from https://demo.yolotheme.com/giraffe/product-category/child-care/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-bg-scaled.jpg (from https://demo.yolotheme.com/giraffe/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-1/image-1.png (from https://demo.yolotheme.com/giraffe/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider1.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2019/05/scroll.png (from https://demo.yolotheme.com/giraffe/home-page-2/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-03.jpg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/slide-07.jpeg (from https://demo.yolotheme.com/giraffe/home-page-3/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-6/2.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/005-books-1.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/012-medal.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2020/07/002-bus.png (from https://demo.yolotheme.com/giraffe/home-page-4/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider2.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/text2.png (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider3.jpg (from https://demo.yolotheme.com/giraffe/home-page-5/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/2018/12/bg-slider4.jpg (from https://demo.yolotheme.com/giraffe/home-page-6/)
+11:47:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/wp-content/uploads/revslider/slider-4/slide-02.jpg (from https://demo.yolotheme.com/giraffe/home-page-7/)
+11:47:36	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=244
+11:47:36	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=244 to https://demo.yolotheme.com/giraffe/events/arts-celebration/
+11:47:36	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=183
+11:47:36	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=183 to https://demo.yolotheme.com/giraffe/events/world-drawing-day/
+11:47:36	Error: 	"Not Found" (404) at link https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/isotope-docs.zip (from https://demo.yolotheme.com/giraffe/events/world-drawing-day/)
+11:47:36	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=178
+11:47:36	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=178 to https://demo.yolotheme.com/giraffe/events/grand-opening/
+11:47:36	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=14
+11:47:36	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=14 to https://demo.yolotheme.com/giraffe/teachers/jesical-alaba/
+11:47:36	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=1
+11:47:36	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=1 to https://demo.yolotheme.com/giraffe/taking-action-to-help-kids-like-moonee/
+11:47:43	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3693
+11:47:43	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3693 to https://demo.yolotheme.com/giraffe/product/vel-illum-qui-dolorem/
+11:47:43	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/vel-illum-qui-dolorem/?action=yith-woocompare-add-product&id=3693
+11:47:43	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/vel-illum-qui-dolorem/?action=yith-woocompare-add-product&id=3693 to /giraffe/product/vel-illum-qui-dolorem/
+11:48:03	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3687
+11:48:03	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3687 to https://demo.yolotheme.com/giraffe/product/ut-enim-ad-minima-veniam/
+11:48:03	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/ut-enim-ad-minima-veniam/?action=yith-woocompare-add-product&id=3687
+11:48:03	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/ut-enim-ad-minima-veniam/?action=yith-woocompare-add-product&id=3687 to /giraffe/product/ut-enim-ad-minima-veniam/
+11:48:15	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=3698
+11:48:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=3698 to https://demo.yolotheme.com/giraffe/product/tritani-persequeris-nam/
+11:48:15	Warning: 	Found for https://demo.yolotheme.com/giraffe/product/tritani-persequeris-nam/?action=yith-woocompare-add-product&id=3698
+11:48:15	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/product/tritani-persequeris-nam/?action=yith-woocompare-add-product&id=3698 to /giraffe/product/tritani-persequeris-nam/
+11:48:33	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=2665
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=2665 to https://demo.yolotheme.com/giraffe/cart/
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=95c9d994f8d75d4d60f8bb8f25902339&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=95c9d994f8d75d4d60f8bb8f25902339&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=8abfe8ac9ec214d68541fcb888c0b4c3&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=8abfe8ac9ec214d68541fcb888c0b4c3&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=dc727151e5d55dde1e950767cf861ca5&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=dc727151e5d55dde1e950767cf861ca5&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=d880067f879409df09ac50ba315707aa&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=d880067f879409df09ac50ba315707aa&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=781397bc0630d47ab531ea850bddcf63&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=781397bc0630d47ab531ea850bddcf63&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=ddf9029977a61241841edeae15e9b53f&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=ddf9029977a61241841edeae15e9b53f&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:33	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=f23d125da1e29e34c552f448610ff25f&_wpnonce=6944dfea70
+11:48:33	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=f23d125da1e29e34c552f448610ff25f&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:34	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=6754e06e46dfa419d5afe3c9781cecad&_wpnonce=6944dfea70
+11:48:34	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=6754e06e46dfa419d5afe3c9781cecad&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:48:34	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?remove_item=943aa0fcda4ee2901a7de9321663b114&_wpnonce=6944dfea70
+11:48:34	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?remove_item=943aa0fcda4ee2901a7de9321663b114&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/cart/?removed_item=1
+11:50:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/robots.txt (from https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70)
+11:50:51	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/cart/?removed_item=1 (from https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70)
+11:50:51	Warning: 	Moved Permanently for https://demo.yolotheme.com/giraffe/?p=2667
+11:50:51	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/?p=2667 to https://demo.yolotheme.com/giraffe/checkout/
+11:50:52	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70
+11:50:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:52	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=95c9d994f8d75d4d60f8bb8f25902339&_wpnonce=6944dfea70
+11:50:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=95c9d994f8d75d4d60f8bb8f25902339&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:52	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=8abfe8ac9ec214d68541fcb888c0b4c3&_wpnonce=6944dfea70
+11:50:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=8abfe8ac9ec214d68541fcb888c0b4c3&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:52	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=dc727151e5d55dde1e950767cf861ca5&_wpnonce=6944dfea70
+11:50:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=dc727151e5d55dde1e950767cf861ca5&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:52	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=d880067f879409df09ac50ba315707aa&_wpnonce=6944dfea70
+11:50:52	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=d880067f879409df09ac50ba315707aa&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:53	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=781397bc0630d47ab531ea850bddcf63&_wpnonce=6944dfea70
+11:50:53	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=781397bc0630d47ab531ea850bddcf63&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:53	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=ddf9029977a61241841edeae15e9b53f&_wpnonce=6944dfea70
+11:50:53	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=ddf9029977a61241841edeae15e9b53f&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:57	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=f23d125da1e29e34c552f448610ff25f&_wpnonce=6944dfea70
+11:50:57	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=f23d125da1e29e34c552f448610ff25f&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:57	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=6754e06e46dfa419d5afe3c9781cecad&_wpnonce=6944dfea70
+11:50:57	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=6754e06e46dfa419d5afe3c9781cecad&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:57	Warning: 	Found for https://demo.yolotheme.com/giraffe/cart/?undo_item=943aa0fcda4ee2901a7de9321663b114&_wpnonce=6944dfea70
+11:50:57	Warning: 	File has moved from https://demo.yolotheme.com/giraffe/cart/?undo_item=943aa0fcda4ee2901a7de9321663b114&_wpnonce=6944dfea70 to http://demo.yolotheme.com/giraffe/checkout/
+11:50:57	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.yolotheme.com/giraffe/cart/?removed_item=1 (from https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70)
+11:50:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo.yolotheme.com/giraffe/cart/?removed_item=1 (from https://demo.yolotheme.com/giraffe/cart/?remove_item=4b26dc4663ccf960c8538d595d0a1d3a&_wpnonce=6944dfea70)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 minutes 50 seconds : 1453 links scanned, 1290 files written (70487968 bytes overall) [30228387 bytes received at 14463 bytes/sec], 51510090 bytes transferred using HTTP compression in 705 files, ratio 19%, 10.8 requests per connection
+(20 errors, 250 warnings, 0 messages)
