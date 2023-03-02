@@ -35,7 +35,7 @@ jQuery(document).ready(function($) {
                     .text( yith_woocompare.added_label );
 
                 // add the product in the widget
-                widget_list.html( response.widget_table );
+                widget_list.php( response.widget_table );
 
                 if ( yith_woocompare.auto_open == 'yes')
                     $('body').trigger( 'yith_woocompare_open_popup', { response: response.table_url, button: button } );
@@ -87,9 +87,9 @@ jQuery(document).ready(function($) {
                         success: function(response){
                             // add the product in the widget
                             if( typeof $.fn.block != 'undefined' ) {
-                                widget_list.unblock().html(response);
+                                widget_list.unblock().php(response);
                             }
-                            widget_list.html(response);
+                            widget_list.php(response);
                         }
                     });
                 }
@@ -156,7 +156,7 @@ jQuery(document).ready(function($) {
                 // replace content
                 $( '#yith-woocompare' ).replaceWith( content );
 
-                $('.compare[data-product_id="' + button.data('product_id') + '"]', window.parent.document).removeClass('added').html( yith_woocompare.button_text );
+                $('.compare[data-product_id="' + button.data('product_id') + '"]', window.parent.document).removeClass('added').php( yith_woocompare.button_text );
 
                 // removed trigger
                 $(window).trigger('yith_woocompare_product_removed');
@@ -220,13 +220,13 @@ jQuery(document).ready(function($) {
                 success: function (response) {
 
                     if( prod_id == 'all' ) {
-                        $( '.compare.added' ).removeClass('added').html( yith_woocompare.button_text );
+                        $( '.compare.added' ).removeClass('added').php( yith_woocompare.button_text );
                     }
                     else {
-                        $('.compare[data-product_id="' + prod_id + '"]' ).removeClass('added').html( yith_woocompare.button_text );
+                        $('.compare[data-product_id="' + prod_id + '"]' ).removeClass('added').php( yith_woocompare.button_text );
                     }
 
-                    product_list.html(response);
+                    product_list.php(response);
                     if( typeof $.fn.block != 'undefined' ) {
                         product_list.unblock();
                     }

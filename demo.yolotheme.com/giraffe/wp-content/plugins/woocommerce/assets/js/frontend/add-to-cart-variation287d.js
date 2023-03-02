@@ -285,7 +285,7 @@
 		$template_html = $template_html.replace( '/*<![CDATA[*/', '' );
 		$template_html = $template_html.replace( '/*]]>*/', '' );
 
-		form.$singleVariation.html( $template_html );
+		form.$singleVariation.php( $template_html );
 		form.$form.find( 'input[name="variation_id"], input.variation_id' ).val( variation.variation_id ).change();
 
 		// Hide or show qty input
@@ -386,10 +386,10 @@
 					'attribute_options',
 					refSelect.find( 'option' + option_gt_filter ).get()
 				);
-				current_attr_select.data( 'attribute_html', refSelect.html() );
+				current_attr_select.data( 'attribute_html', refSelect.php() );
 			}
 
-			new_attr_select.html( current_attr_select.data( 'attribute_html' ) );
+			new_attr_select.php( current_attr_select.data( 'attribute_html' ) );
 
 			// The attribute of this select field should not be taken into account when calculating its matching variations:
 			// The constraints of this attribute are shaped by the values of the other attributes.
@@ -416,7 +416,7 @@
 
 								if ( attr_val ) {
 									// Decode entities.
-									attr_val = $( '<div/>' ).html( attr_val ).text();
+									attr_val = $( '<div/>' ).php( attr_val ).text();
 
 									// Attach to matching options by value. This is done to compare
 									// TEXT values rather than any HTML entities.
@@ -475,7 +475,7 @@
 			new_attr_select.find( 'option' + option_gt_filter + ':not(.attached)' ).remove();
 
 			// Finally, copy to DOM and set value.
-			current_attr_select.html( new_attr_select.html() );
+			current_attr_select.php( new_attr_select.php() );
 			current_attr_select.find( 'option' + option_gt_filter + ':not(.enabled)' ).prop( 'disabled', true );
 
 			// Choose selected value.

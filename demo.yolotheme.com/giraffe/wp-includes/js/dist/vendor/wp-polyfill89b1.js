@@ -6707,7 +6707,7 @@ var runtime = (function (exports) {
         }
 
         // Be forgiving, per 25.3.3.3.3 of the spec:
-        // https://people.mozilla.org/~jorendorff/es6-draft.html#sec-generatorresume
+        // https://people.mozilla.org/~jorendorff/es6-draft.php#sec-generatorresume
         return doneResult();
       }
 

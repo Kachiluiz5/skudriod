@@ -3,7 +3,7 @@
 <html lang="en-US">
 	<!-- Open Head -->
 	
-<!-- Mirrored from demo.yolotheme.com/giraffe/events/summer-camp/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Dec 2022 10:27:22 GMT -->
+<!-- Mirrored from demo.yolotheme.com/giraffe/events/science-class-for-toddlers/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Dec 2022 10:27:42 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 				<meta charset="UTF-8"/>
@@ -15,13 +15,13 @@
 
 
             <link rel="shortcut icon" href="../../wp-content/themes/yolo-giraffe/assets/images/favicon.ico" />
-    <title>Summer Camp &#8211; Giraffe</title>
+    <title>Science Class for Toddlers &#8211; Giraffe</title>
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../../comments/feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Summer Camp Comments Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../../comments/feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Science Class for Toddlers Comments Feed" href="feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/wp-emoji.js?ver=5.6.10","twemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/twemoji.js?ver=5.6.10"}};
 			/**
@@ -416,14 +416,14 @@ var wc_add_to_cart_params = {"ajax_url":"\/giraffe\/wp-admin\/admin-ajax.php","w
 </script>
 <script type='text/javascript' src='../../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart287d.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='../../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
-<link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../../wp-json/index.php" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6.10" />
 <meta name="generator" content="WooCommerce 4.8.0" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../../indexc56d.html?p=981' />
-<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embedcc87.json?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed8766?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F&amp;format=xml" />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../../index37bc.php?p=3286' />
+<link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed696c.json?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embed542f?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F&amp;format=xml" />
 <meta name="framework" content="Redux 4.1.24" /><style data-type="vc_shortcodes-custom-css">.vc_custom_1594786041912{background: #f8f8f8 url(../../wp-content/uploads/2020/07/footer-bg-229f0.jpg?id=4779) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1594972724859{padding-top: 63px !important;padding-bottom: 60px !important;}.vc_custom_1594780069426{padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1593502281735{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594969876977{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594974710294{margin-top: 30px !important;margin-bottom: 33px !important;}.vc_custom_1594780146725{border-top-width: 1px !important;padding-top: 35px !important;padding-bottom: 35px !important;border-top-color: rgba(255,255,255,0.2) !important;border-top-style: solid !important;border-radius: 1px !important;}.vc_custom_1650593824269{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
 <style type="text/css" id="custom-background-css">
@@ -480,7 +480,7 @@ body.custom-background { background-color: #ffffff; }
 .yolo-page-title-section{margin-top: px;margin-bottom: px}.yolo-page-title-section .yolo-page-title-wrap{height: px}</style>
 <style id="yolo_giraffe_options-dynamic-css" title="dynamic-css" class="redux-options-output">body{background-repeat:no-repeat;background-attachment:fixed;background-position:center center;background-size:cover;}#yolo-wrapper{background-color:#ffffff;}.page-title-margin{margin-top:0;margin-bottom:80px;}.page-title-height{}.archive-title-height{}.single-blog-title-height{}.archive-product-title-height{}.single-product-title-height{}body{font-family:Montserrat;font-weight:500;font-style:normal;font-size:14px;font-display:swap;}h1{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:36px;font-display:swap;}h2{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:30px;font-display:swap;}h3{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:26px;font-display:swap;}h4{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:22px;font-display:swap;}h5{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:18px;font-display:swap;}h6{font-family:"Fredoka One";font-weight:400;font-style:normal;font-size:14px;font-display:swap;}.page-title-inner h1{font-family:"Fredoka One";text-transform:capitalize;font-weight:400;font-style:normal;font-size:36px;font-display:swap;}.page-title-inner .page-sub-title{font-family:Montserrat;text-transform:none;font-weight:500;font-style:normal;font-size:15px;font-display:swap;}.archive-teacher-title-height{}.single-teacher-title-height{}.archive-class-title-height{}.single-class-title-height{}.archive-event-title-height{}.single-event-title-height{}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
 	<!-- Close Head -->
-	<body class="yolo_event-template-default single single-yolo_event postid-981 custom-background theme-yolo-giraffe woocommerce-no-js yolo-timetable-page event-page yolo-site-preload header-4 woocommerce wpb-js-composer js-comp-ver-6.5.0 vc_responsive">
+	<body class="yolo_event-template-default single single-yolo_event postid-3286 custom-background theme-yolo-giraffe woocommerce-no-js yolo-timetable-page event-page yolo-site-preload header-4 woocommerce wpb-js-composer js-comp-ver-6.5.0 vc_responsive">
 		<div class="site">
 						<div id="yolo-site-preload" style="background: -moz-linear-gradient(-45deg, #ffffff 0%, #ffffff 100%);background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff));background: -webkit-linear-gradient(-45deg, #ffffff 0%,#ffffff 100%);background: -o-linear-gradient(-45deg, #ffffff 0%,#ffffff 100%);background: -ms-linear-gradient(-45deg, #ffffff 0%,#ffffff 100%);background: linear-gradient(135deg, #ffffff 0%,#ffffff 100%);" class="">
     <div class="yolo-loading-center">
@@ -503,7 +503,7 @@ body.custom-background { background-color: #ffffff; }
 </div>																	
 				</div>
 									<div class="header-logo-mobile">
-						<a  href="../../index.html" title="Giraffe - Just another WordPress site">
+						<a  href="../../index.php" title="Giraffe - Just another WordPress site">
 							<img src="../../wp-content/uploads/2018/12/logo-header.png" alt="Giraffe - Just another WordPress site" />
 						</a>
 					</div>
@@ -513,45 +513,45 @@ body.custom-background { background-color: #ffffff; }
 			<input type="search" name="s" placeholder="Search...">
 			<button type="submit"><i class="fas fa-search"></i></button>
 		</form>
-											<ul id="menu-primary-menu" class="yolo-nav-mobile-menu"><li id="menu-item-mobile-4586" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children level-0 "><a href="../../index.html">Home</a><b class="menu-caret"></b>
+											<ul id="menu-primary-menu" class="yolo-nav-mobile-menu"><li id="menu-item-mobile-4586" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children level-0 "><a href="../../index.php">Home</a><b class="menu-caret"></b>
 <ul class="sub-menu">
-	<li id="menu-item-mobile-4917" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home level-1 "><a href="../../index.html">Home Page 1</a></li>
-	<li id="menu-item-mobile-4918" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-2/index.html">Home Page 2</a></li>
-	<li id="menu-item-mobile-4919" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-3/index.html">Home Page 3</a></li>
-	<li id="menu-item-mobile-4920" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-4/index.html">Home Page 4</a></li>
-	<li id="menu-item-mobile-4921" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-5/index.html">Home Page 5</a></li>
-	<li id="menu-item-mobile-4922" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-6/index.html">Home Page 6</a></li>
-	<li id="menu-item-mobile-4923" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-7/index.html">Home Page 7</a></li>
+	<li id="menu-item-mobile-4917" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home level-1 "><a href="../../index.php">Home Page 1</a></li>
+	<li id="menu-item-mobile-4918" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-2/index.php">Home Page 2</a></li>
+	<li id="menu-item-mobile-4919" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-3/index.php">Home Page 3</a></li>
+	<li id="menu-item-mobile-4920" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-4/index.php">Home Page 4</a></li>
+	<li id="menu-item-mobile-4921" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-5/index.php">Home Page 5</a></li>
+	<li id="menu-item-mobile-4922" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-6/index.php">Home Page 6</a></li>
+	<li id="menu-item-mobile-4923" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-7/index.php">Home Page 7</a></li>
 </ul>
 </li>
-<li id="menu-item-mobile-3581" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-has-children level-0 "><a href="../index.html">Events</a><b class="menu-caret"></b>
+<li id="menu-item-mobile-3581" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-has-children level-0 "><a href="../index.php">Events</a><b class="menu-caret"></b>
 <ul class="sub-menu">
-	<li id="menu-item-mobile-3837" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-program/index.html">Our Program</a></li>
-	<li id="menu-item-mobile-3886" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-events/index.html">Our Events</a></li>
-	<li id="menu-item-mobile-3830" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_event level-1 "><a href="../art-program-for-kids/index.html">Event Details</a></li>
+	<li id="menu-item-mobile-3837" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-program/index.php">Our Program</a></li>
+	<li id="menu-item-mobile-3886" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-events/index.php">Our Events</a></li>
+	<li id="menu-item-mobile-3830" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_event level-1 "><a href="../art-program-for-kids/index.php">Event Details</a></li>
 </ul>
 </li>
-<li id="menu-item-mobile-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../../classes/index.html">Classes</a><b class="menu-caret"></b>
+<li id="menu-item-mobile-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../../classes/index.php">Classes</a><b class="menu-caret"></b>
 <ul class="sub-menu">
-	<li id="menu-item-mobile-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../timetable/index.html">Timetable</a></li>
-	<li id="menu-item-mobile-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-classes/index.html">Our Classes</a></li>
-	<li id="menu-item-mobile-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../../classes/color-match-class/index.html">Class Details</a></li>
+	<li id="menu-item-mobile-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../timetable/index.php">Timetable</a></li>
+	<li id="menu-item-mobile-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-classes/index.php">Our Classes</a></li>
+	<li id="menu-item-mobile-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-mobile-3580" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-has-children level-0 "><a href="../../teachers/index.html">Teachers</a><b class="menu-caret"></b>
+<li id="menu-item-mobile-3580" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-has-children level-0 "><a href="../../teachers/index.php">Teachers</a><b class="menu-caret"></b>
 <ul class="sub-menu">
-	<li id="menu-item-mobile-3838" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-classic/index.html">Teachers Classic</a></li>
-	<li id="menu-item-mobile-3839" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-colors/index.html">Teachers Colors</a></li>
-	<li id="menu-item-mobile-3829" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_teacher level-1 "><a href="../../teachers/alice-bohm/index.html">Teacher Details</a></li>
+	<li id="menu-item-mobile-3838" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-classic/index.php">Teachers Classic</a></li>
+	<li id="menu-item-mobile-3839" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-colors/index.php">Teachers Colors</a></li>
+	<li id="menu-item-mobile-3829" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_teacher level-1 "><a href="../../teachers/alice-bohm/index.php">Teacher Details</a></li>
 </ul>
 </li>
-<li id="menu-item-mobile-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page current_page_parent level-0 "><a href="../../blog/index.html">Blog</a></li>
+<li id="menu-item-mobile-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page current_page_parent level-0 "><a href="../../blog/index.php">Blog</a></li>
 <li id="menu-item-mobile-3836" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 "><a href="#">Pages</a><b class="menu-caret"></b>
 <ul class="sub-menu">
-	<li id="menu-item-mobile-4928" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-product level-1 "><a href="../../shop/index.html">Shop</a></li>
-	<li id="menu-item-mobile-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../about-us/index.html">About us</a></li>
-	<li id="menu-item-mobile-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../contact/index.html">Contacts</a></li>
-	<li id="menu-item-mobile-3873" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom level-1 "><a href="../../404.html">404 Error</a></li>
+	<li id="menu-item-mobile-4928" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-product level-1 "><a href="../../shop/index.php">Shop</a></li>
+	<li id="menu-item-mobile-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../about-us/index.php">About us</a></li>
+	<li id="menu-item-mobile-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../contact/index.php">Contacts</a></li>
+	<li id="menu-item-mobile-3873" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom level-1 "><a href="../../404.php">404 Error</a></li>
 </ul>
 </li>
 </ul>								
@@ -565,52 +565,52 @@ body.custom-background { background-color: #ffffff; }
 			<div class="yolo-header-wrapper">
 				<div class="header-left">
 					<div class="header-logo">
-	<a  href="../../index.html" title="Giraffe - Just another WordPress site">
+	<a  href="../../index.php" title="Giraffe - Just another WordPress site">
 		<img src="../../wp-content/uploads/2020/08/logo.png" alt="Giraffe - Just another WordPress site" />
 	</a>
 </div>
 				</div>
 				<div class="header-center">
 													<div id="primary-menu" class="menu-wrapper">
-								<ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav"><li id="menu-item-4586" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children level-0 "><a href="../../index.html">Home</a><b class="menu-caret"></b>
+								<ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav"><li id="menu-item-4586" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children level-0 "><a href="../../index.php">Home</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-	<li id="menu-item-4917" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home level-1 "><a href="../../index.html">Home Page 1</a></li>
-	<li id="menu-item-4918" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-2/index.html">Home Page 2</a></li>
-	<li id="menu-item-4919" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-3/index.html">Home Page 3</a></li>
-	<li id="menu-item-4920" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-4/index.html">Home Page 4</a></li>
-	<li id="menu-item-4921" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-5/index.html">Home Page 5</a></li>
-	<li id="menu-item-4922" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-6/index.html">Home Page 6</a></li>
-	<li id="menu-item-4923" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-7/index.html">Home Page 7</a></li>
+	<li id="menu-item-4917" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page menu-item-home level-1 "><a href="../../index.php">Home Page 1</a></li>
+	<li id="menu-item-4918" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-2/index.php">Home Page 2</a></li>
+	<li id="menu-item-4919" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-3/index.php">Home Page 3</a></li>
+	<li id="menu-item-4920" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-4/index.php">Home Page 4</a></li>
+	<li id="menu-item-4921" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-5/index.php">Home Page 5</a></li>
+	<li id="menu-item-4922" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-6/index.php">Home Page 6</a></li>
+	<li id="menu-item-4923" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../home-page-7/index.php">Home Page 7</a></li>
 </ul>
 </li>
-<li id="menu-item-3581" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-has-children level-0 "><a href="../index.html">Events</a><b class="menu-caret"></b>
+<li id="menu-item-3581" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-has-children level-0 "><a href="../index.php">Events</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-	<li id="menu-item-3837" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-program/index.html">Our Program</a></li>
-	<li id="menu-item-3886" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-events/index.html">Our Events</a></li>
-	<li id="menu-item-3830" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_event level-1 "><a href="../art-program-for-kids/index.html">Event Details</a></li>
+	<li id="menu-item-3837" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-program/index.php">Our Program</a></li>
+	<li id="menu-item-3886" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-events/index.php">Our Events</a></li>
+	<li id="menu-item-3830" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_event level-1 "><a href="../art-program-for-kids/index.php">Event Details</a></li>
 </ul>
 </li>
-<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../../classes/index.html">Classes</a><b class="menu-caret"></b>
+<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../../classes/index.php">Classes</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-	<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../timetable/index.html">Timetable</a></li>
-	<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-classes/index.html">Our Classes</a></li>
-	<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../../classes/color-match-class/index.html">Class Details</a></li>
+	<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../timetable/index.php">Timetable</a></li>
+	<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../our-classes/index.php">Our Classes</a></li>
+	<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-3580" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-has-children level-0 "><a href="../../teachers/index.html">Teachers</a><b class="menu-caret"></b>
+<li id="menu-item-3580" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-has-children level-0 "><a href="../../teachers/index.php">Teachers</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-	<li id="menu-item-3838" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-classic/index.html">Teachers Classic</a></li>
-	<li id="menu-item-3839" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-colors/index.html">Teachers Colors</a></li>
-	<li id="menu-item-3829" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_teacher level-1 "><a href="../../teachers/alice-bohm/index.html">Teacher Details</a></li>
+	<li id="menu-item-3838" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-classic/index.php">Teachers Classic</a></li>
+	<li id="menu-item-3839" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../teachers-colors/index.php">Teachers Colors</a></li>
+	<li id="menu-item-3829" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_teacher level-1 "><a href="../../teachers/alice-bohm/index.php">Teacher Details</a></li>
 </ul>
 </li>
-<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page current_page_parent level-0 "><a href="../../blog/index.html">Blog</a></li>
+<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page current_page_parent level-0 "><a href="../../blog/index.php">Blog</a></li>
 <li id="menu-item-3836" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children level-0 "><a href="#">Pages</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-	<li id="menu-item-4928" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-product level-1 "><a href="../../shop/index.html">Shop</a></li>
-	<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../about-us/index.html">About us</a></li>
-	<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../contact/index.html">Contacts</a></li>
-	<li id="menu-item-3873" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom level-1 "><a href="../../404.html">404 Error</a></li>
+	<li id="menu-item-4928" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-product level-1 "><a href="../../shop/index.php">Shop</a></li>
+	<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../about-us/index.php">About us</a></li>
+	<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../../contact/index.php">Contacts</a></li>
+	<li id="menu-item-3873" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-custom menu-item-object-custom level-1 "><a href="../../404.php">404 Error</a></li>
 </ul>
 </li>
 </ul>							</div>
@@ -653,11 +653,11 @@ body.custom-background { background-color: #ffffff; }
              <div class="container">
                 <div class="page-title-inner block-center">
                     <div class="block-inner">
-                       <h1>Summer Camp</h1>                    </div>
+                       <h1>Science Class for Toddlers</h1>                    </div>
                 </div>
                     <div class="yolo-breadcrumb-wrap">
                                                     <i class="fas fa-map-marker-alt"></i>
-                            42 Stryker St, Brooklyn, NY 11223, USA                                            </div>
+                            507 5th Ave, New York, NY 10017, USA                                            </div>
             </div>
         </div>
     </section>
@@ -668,92 +668,62 @@ body.custom-background { background-color: #ffffff; }
             <div class="site-content-archive-inner col-md-12 col-lg-8">
                 <div class="event-wrap">
                     <div class="event-inner clearfix">
-                                                    <article id="post-981" class="post-981 yolo_event type-yolo_event status-publish has-post-thumbnail hentry event_category-activities event_category-environment event_category-events">
+                                                    <article id="post-3286" class="post-3286 yolo_event type-yolo_event status-publish has-post-thumbnail hentry event_category-activities event_category-art event_category-course">
                                 <div class="single-post-gallery">
                                                 <div class="gallery-top">
-                <div class="post-slideshow owl-carousel owl-theme" id="post_slideshow_639af4f73cc4a">
+                <div class="post-slideshow owl-carousel owl-theme" id="post_slideshow_639af4f7eeae9">
                                         <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="0">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-14-1080x768.jpg" width = "1080" height = "768"/>
+                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f7eeae9" data-index="0">
+                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-07-1080x768.jpg" width = "1080" height = "768"/>
                         </a>
                     </div>
                                             <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="1">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-13-1080x768.jpg" width = "1080" height = "768"/>
+                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f7eeae9" data-index="1">
+                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-04-1080x768.jpg" width = "1080" height = "768"/>
                         </a>
                     </div>
                                             <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="2">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-12-1080x768.jpg" width = "1080" height = "768"/>
+                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f7eeae9" data-index="2">
+                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-05-1080x768.jpg" width = "1080" height = "768"/>
                         </a>
                     </div>
                                             <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="3">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-15-1080x768.jpg" width = "1080" height = "768"/>
+                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f7eeae9" data-index="3">
+                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-06-1080x768.jpg" width = "1080" height = "768"/>
                         </a>
                     </div>
                                             <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="4">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-11-1080x768.jpg" width = "1080" height = "768"/>
-                        </a>
-                    </div>
-                                            <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="5">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-10-1080x768.jpg" width = "1080" height = "768"/>
-                        </a>
-                    </div>
-                                            <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="6">
+                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f7eeae9" data-index="4">
                             <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-09-1080x768.jpg" width = "1080" height = "768"/>
-                        </a>
-                    </div>
-                                            <div class="item">
-                        <a class="nav-post-slideshow" href="javascript:;" data-section-id="639af4f73cc4a" data-index="7">
-                            <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-08-1080x768.jpg" width = "1080" height = "768"/>
                         </a>
                     </div>
                                                             </div>
             </div>
             <div class="paging-wrap">
-                <div class="slideshow-paging owl-carousel owl-theme" data-current-index="0" data-total-items="8" id="slideshow_paging_639af4f73cc4a">
+                <div class="slideshow-paging owl-carousel owl-theme" data-current-index="0" data-total-items="5" id="slideshow_paging_639af4f7eeae9">
                                                 <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="0" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-14-180x130.jpg" width = "180" height = "130"/>
+                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f7eeae9" data-index="0" >
+                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-07-180x130.jpg" width = "180" height = "130"/>
                                 </a>
                             </div>
                                                     <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="1" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-13-180x130.jpg" width = "180" height = "130"/>
+                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f7eeae9" data-index="1" >
+                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-04-180x130.jpg" width = "180" height = "130"/>
                                 </a>
                             </div>
                                                     <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="2" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-12-180x130.jpg" width = "180" height = "130"/>
+                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f7eeae9" data-index="2" >
+                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-05-180x130.jpg" width = "180" height = "130"/>
                                 </a>
                             </div>
                                                     <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="3" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-15-180x130.jpg" width = "180" height = "130"/>
+                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f7eeae9" data-index="3" >
+                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-06-180x130.jpg" width = "180" height = "130"/>
                                 </a>
                             </div>
                                                     <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="4" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-11-180x130.jpg" width = "180" height = "130"/>
-                                </a>
-                            </div>
-                                                    <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="5" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-10-180x130.jpg" width = "180" height = "130"/>
-                                </a>
-                            </div>
-                                                    <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="6" >
+                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f7eeae9" data-index="4" >
                                     <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-09-180x130.jpg" width = "180" height = "130"/>
-                                </a>
-                            </div>
-                                                    <div class="item">
-                                <a href="javascript:;" class="nav-slideshow" data-section-id="639af4f73cc4a" data-index="7" >
-                                    <img alt="portfolio" src="../../wp-content/uploads/2018/10/event-08-180x130.jpg" width = "180" height = "130"/>
                                 </a>
                             </div>
                                         </div>
@@ -781,25 +751,25 @@ body.custom-background { background-color: #ffffff; }
             <span class="share-icon fas fa-share-alt"></span>
             <ul class="social-share">
                                     <li class="social facebook">
-                        <a onclick="window.open('https://www.facebook.com/sharer.php?s=100&amp;p[url]=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F','sharer', 'toolbar=0,status=0,width=620,height=280');" aria-label="Facebook" href="javascript:;">
+                        <a onclick="window.open('https://www.facebook.com/sharer.php?s=100&amp;p[url]=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F','sharer', 'toolbar=0,status=0,width=620,height=280');" aria-label="Facebook" href="javascript:;">
                             <i class="fab fa-facebook-f"></i>
                         </a>
                     </li>
                 
                                     <li class="social twitter">
-                        <a onclick="popUp=window.open('http://twitter.com/home?status=Summer+Camp%20https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;"  href="javascript:;">
+                        <a onclick="popUp=window.open('http://twitter.com/home?status=Science+Class+for+Toddlers%20https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;"  href="javascript:;">
                             <i class="fab fa-twitter"></i>
                         </a>
                     </li>
                 
                                     <li class="social google">
-                        <a  href="javascript:;" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;">
+                        <a  href="javascript:;" onclick="popUp=window.open('https://plus.google.com/share?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;">
                             <i class="fab fa-google-plus-g"></i>
                         </a>
                     </li>
                 
                                     <li class="social linkedin">
-                        <a  onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fsummer-camp%2F&amp;title=Summer+Camp','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;" href="javascript:;">
+                        <a  onclick="popUp=window.open('http://linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fevents%2Fscience-class-for-toddlers%2F&amp;title=Science+Class+for+Toddlers','sharer','scrollbars=yes,width=800,height=400');popUp.focus();return false;" href="javascript:;">
                             <i class="fab fa-linkedin-in"></i>
                         </a>
                     </li>
@@ -816,35 +786,7 @@ body.custom-background { background-color: #ffffff; }
                                 </div>
                             </article>
                                                     <div class="entry-comments" id="comments">
-                    <h3 class="comments-title">
-                <span>
-                    One Comment                </span>
-            </h3>
-                        <ol class="commentlist clearfix">
-                        <li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1" id="li-comment-300">
-        <article id="comment-300" class="comment-article clearfix">
-            <div class="comment-avatar">
-                <img alt='' src='https://secure.gravatar.com/avatar/67c62aa47eaa193be33237c304b19622?s=90&amp;r=g' srcset='https://secure.gravatar.com/avatar/67c62aa47eaa193be33237c304b19622?s=180&#038;r=g 2x' class='avatar avatar-90 photo' height='90' width='90' loading='lazy'/>            </div>
-            <div class="comment-body">
-                <header class="comment-meta">
-                    <h3 class="comment-author">
-                        Joe Doe                    </h3>
-                </header>
-                                <section class="comment-content">
-                     <p>Stet clita kasd gubergren, At vero eos et accusam et justo duo dolores et ea rebum. no sea takimata sanctus est Lorem ipsum dolor sit amet. sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, consetetur sadipscing elitr,</p>
-                </section>
-
-                <div class="comment-footer">
-                    <span class="comment-time">
-                        Apr 12, 2020                        at                        4:52 am                    </span>
-                    <span class="comment-reply">
-                            <a rel='nofollow' class='comment-reply-link' href='indexb3d4.html?replytocom=300#respond' data-commentid="300" data-postid="981" data-belowelement="comment-300" data-respondelement="respond" data-replyto="Reply to Joe Doe" aria-label='Reply to Joe Doe'>Reply</a>                    </span>
-                </div>
-            </div>
-        </article>
-        </li><!-- #comment-## -->
-            </ol>
-                    
+        
                     <!-- @TODO: user not login don't show email, name, website field -->
                         <div id="respond-wrap">
                         <style>
@@ -859,7 +801,7 @@ body.custom-background { background-color: #ffffff; }
             }
         </style>
         	<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title"><span>Leave your thought here</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://demo.yolotheme.com/giraffe/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-author "><input id="author" name="author" type="text" placeholder="Your Name *" class="form-control" value="" size="30" aria-required='true' /></div>
+		<h3 id="reply-title" class="comment-reply-title"><span>Leave your thought here</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.php#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://demo.yolotheme.com/giraffe/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-author "><input id="author" name="author" type="text" placeholder="Your Name *" class="form-control" value="" size="30" aria-required='true' /></div>
 <div class="comment-form-email"><input id="email" name="email" type="text" placeholder="Your Email *" class="form-control" value="" size="30" aria-required='true' /></div>
 <div class="comment-form-comment"><textarea class="form-control" placeholder="Your Message" id="comment" name="comment" cols="40" rows="6" aria-required="true"></textarea></div>
         <div class="comment-rating yolo-rating">
@@ -875,7 +817,7 @@ body.custom-background { background-color: #ffffff; }
                 </span>
             </fieldset>
         </div>
-        <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='981' id='comment_post_ID' />
+        <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='3286' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 </p>    <label class="hpwc" for="phone"></label>
     <input class="hpwc" autocomplete="off"
@@ -911,36 +853,18 @@ body.custom-background { background-color: #ffffff; }
                 <div class="wi__content">
                     <h5 class="item-label">Organizer</h5>
                     <p class="item-value">Marry Smith</p>
-                    <a class="item-value" href="https://demo.yolotheme.com/cdn-cgi/l/email-protection#b9dcc1d8d4c9d5dcf9ded4d8d0d597dad6d4"><span class="__cf_email__" data-cfemail="dbbea3bab6abb7be9bbcb6bab2b7f5b8b4b6">[email&#160;protected]</span></a>                </div>
+                    <a class="item-value" href="https://demo.yolotheme.com/cdn-cgi/l/email-protection#482d30292538242d082f25292124662b2725"><span class="__cf_email__" data-cfemail="a5c0ddc4c8d5c9c0e5c2c8c4ccc98bc6cac8">[email&#160;protected]</span></a>                </div>
             </div>
-                                                <div class="widget-info-item">
-                    <div class="wi__icon">
-                        <img src="../../wp-content/plugins/yolo-timetable/assets/images/ic-yo-range.png" class="img-responsive">
-                    </div>
-                    <div class="wi__content">
-                        <h5 class="item-label">Years old</h5>
-                        <p class="item-value">5 - 7 Years</p>
-                    </div>
-                </div>
-                                                <div class="widget-info-item">
-                    <div class="wi__icon">
-                        <img src="../../wp-content/plugins/yolo-timetable/assets/images/ic-event-size.png" class="img-responsive">
-                    </div>
-                    <div class="wi__content">
-                        <h5 class="item-label">Event Size</h5>
-                        <p class="item-value">10 - 20</p>
-                    </div>
-                </div>
-                                                <div class="widget-info-item">
+                                                                                        <div class="widget-info-item">
                     <div class="wi__icon">
                         <img src="../../wp-content/plugins/yolo-timetable/assets/images/ic-schedule.png" class="img-responsive">
                     </div>
                     <div class="wi__content">
                         <h5 class="item-label">Start Date</h5>
                         <p class="item-value">
-                             9:35 am                            <span>-</span>
-                             2:35 pm                        </p>
-                        <p class="item-value">May 29, 2020</p>
+                             2:45 pm                            <span>-</span>
+                             6:45 pm                        </p>
+                        <p class="item-value">Apr 29, 2020</p>
                     </div>
                 </div>
                                                                         
@@ -955,7 +879,7 @@ body.custom-background { background-color: #ffffff; }
             <section id="event-location-1" class="widget widget_event_location collapse">
                 
 			
-			                <div class="yolo-event-maps" data-lat="40.592903530938436" data-lng="-73.97281454492186" data-zoom=""></div>
+			                <div class="yolo-event-maps" data-lat="40.75379167454754" data-lng="-73.98064954427329" data-zoom=""></div>
 						            </section>
                     	
 				<div id="calendar-5" class="widget widget_calendar"><h4 class="widget-title">Calendar</h4><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
@@ -990,7 +914,7 @@ body.custom-background { background-color: #ffffff; }
 	</tr>
 	</tbody>
 	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
-		<span class="wp-calendar-nav-prev"><a href="../../2020/04/index.html">&laquo; Apr</a></span>
+		<span class="wp-calendar-nav-prev"><a href="../../2020/04/index.php">&laquo; Apr</a></span>
 		<span class="pad">&nbsp;</span>
 		<span class="wp-calendar-nav-next">&nbsp;</span>
 	</nav></div></div>
@@ -1022,7 +946,7 @@ body.custom-background { background-color: #ffffff; }
                         <i class="far fa-envelope"  style="font-size:15px;" ></i>
                     </span> 
                  
-                                    <span class="icon-text"  style="color:rgba(255,255,255,0.8);" >Mail: <a href="https://demo.yolotheme.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a1e6c8d3c0c7c7c4e1f8cecdced5c9c4ccc48fc2cecc">[email&#160;protected]</a></span>
+                                    <span class="icon-text"  style="color:rgba(255,255,255,0.8);" >Mail: <a href="https://demo.yolotheme.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c88fa1baa9aeaead8891a7a4a7bca0ada5ade6aba7a5">[email&#160;protected]</a></span>
                             </li>
                     <li class="icon-text-footer-item">
                                     <span class="icon-wrap"   style="color:rgba(255,255,255,0.8);" >
@@ -1085,17 +1009,17 @@ body.custom-background { background-color: #ffffff; }
                         </li>
             </ul>
 </div>            </div>
-                    </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../../index.html">Home</a></li>
-<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-4434"><a href="../../blog/index.html">Blog</a></li>
-<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../../about-us/index.html">About us</a></li>
-<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../../contact/index.html">Contact</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../../our-program/index.html">Our Program</a></li>
-<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../../classes/index.html">Classes</a></li>
-<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../../teachers/index.html">Teachers</a></li>
-<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../index.html">Events</a></li>
+                    </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../../index.php">Home</a></li>
+<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-4434"><a href="../../blog/index.php">Blog</a></li>
+<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../../about-us/index.php">About us</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../../contact/index.php">Contact</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../../our-program/index.php">Our Program</a></li>
+<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../../classes/index.php">Classes</a></li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../../teachers/index.php">Teachers</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../index.php">Events</a></li>
 <li id="menu-item-4844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4844"><a href="#__">Privacy policy</a></li>
 <li id="menu-item-4845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4845"><a href="#__">Terms of services</a></li>
-</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-981-3463792896]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >©Giraffe is Product Created by <mark>YoloTheme</mark></h2></div></div></div></div></div></div></div></div></div></div>
+</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-3286-2584142282]"><img width="150" height="150" src="../../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >©Giraffe is Product Created by <mark>YoloTheme</mark></h2></div></div></div></div></div></div></div></div></div></div>
 				</div>
 							</footer>
 		</div>
@@ -1192,9 +1116,9 @@ var yith_woocompare = {"ajaxurl":"\/giraffe\/?wc-ajax=%%endpoint%%","actionadd":
 /* <![CDATA[ */
 var yolo_framework_app = {"ajax_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php","image_load":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/images\/spinner.gif"};
 var yolo_framework_constant = {"product_compare":"Compare","product_wishList":"WishList","product_wishList_added":"Browse WishList","product_quickview":"Quick View","product_addtocart":"Add To Cart","enter_keyword":"Please enter keyword to search","yolo_all_products":"All products loaded","get_search_url":"https:\/\/demo.yolotheme.com\/giraffe\/?s="};
-var yolo_framework_ajax_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
-var yolo_framework_theme_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
-var yolo_framework_site_url = "index.html\/\/demo.yolotheme.com\/giraffe";
+var yolo_framework_ajax_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
+var yolo_framework_theme_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
+var yolo_framework_site_url = "index.php\/\/demo.yolotheme.com\/giraffe";
 /* ]]> */
 </script>
 <script type='text/javascript' src='../../wp-content/themes/yolo-giraffe/assets/js/yolo-main.js' id='yolo_framework_app-js'></script>
@@ -1231,5 +1155,5 @@ var yoloEventMaps = {"assets_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-con
 <script type='text/javascript' src='../../wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.mine6df.js?ver=6.5.0' id='prettyphoto-js'></script>
 	</body>
 
-<!-- Mirrored from demo.yolotheme.com/giraffe/events/summer-camp/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Dec 2022 10:27:33 GMT -->
+<!-- Mirrored from demo.yolotheme.com/giraffe/events/science-class-for-toddlers/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Dec 2022 10:27:50 GMT -->
 </html>

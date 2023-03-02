@@ -726,7 +726,7 @@ jQuery.fn.extend( {
 } );
 
 var rxhtmlTag = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([a-z][^\/\0>\x20\t\r\n\f]*)[^>]*)\/>/gi,
-	origHtmlPrefilter = jQuery.htmlPrefilter,
+	origHtmlPrefilter = jQuery.phpPrefilter,
 	makeMarkup = function( html ) {
 		var doc = window.document.implementation.createHTMLDocument( "" );
 		doc.body.innerHTML = html;
@@ -740,13 +740,13 @@ var rxhtmlTag = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([a-z][^\/\
 	};
 
 jQuery.UNSAFE_restoreLegacyHtmlPrefilter = function() {
-	jQuery.htmlPrefilter = function( html ) {
+	jQuery.phpPrefilter = function( html ) {
 		warnIfChanged( html );
 		return html.replace( rxhtmlTag, "<$1></$2>" );
 	};
 };
 
-jQuery.htmlPrefilter = function( html ) {
+jQuery.phpPrefilter = function( html ) {
 	warnIfChanged( html );
 	return origHtmlPrefilter( html );
 };

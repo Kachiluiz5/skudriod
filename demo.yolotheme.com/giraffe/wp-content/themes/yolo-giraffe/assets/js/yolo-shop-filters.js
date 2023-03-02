@@ -100,7 +100,7 @@
 				success: function(data){
 					$('.yolo-spinner').remove();
 					$('.archive-product-wrap').removeClass('yolo-loading-product');
-					$('.archive-product-wrap').html(data);
+					$('.archive-product-wrap').php(data);
 					$('.archive-product-wrap').addClass('yolo-loaded-product');
 					$('.woocommerce-pagination .yolo-shop-loadmore').addClass('yolo-show-loadmore');
 					$('.tagcloud > a').each( function(){
@@ -127,9 +127,9 @@
 			if ( keyword_search.length ) {
 				e.preventDefault();
 				if ( $('.product-listing').length ) {
-					$('.product-listing').html('<div class="yolo-spinner"><i class="fa fa-spinner fa-spin"></i></div>');
+					$('.product-listing').php('<div class="yolo-spinner"><i class="fa fa-spinner fa-spin"></i></div>');
 				} else if ( $('.woocommerce-no-products').length ) {
-					$('.woocommerce-no-products').html('<div class="yolo-spinner"><i class="fa fa-spinner fa-spin"></i></div>');
+					$('.woocommerce-no-products').php('<div class="yolo-spinner"><i class="fa fa-spinner fa-spin"></i></div>');
 				}
 				$.ajax({
 					url: yolo_framework_constant.get_search_url + encodeURIComponent(keyword_search),
@@ -140,8 +140,8 @@
                 },
 					success: function(data){
 						$('.yolo-filter-categories > li').removeClass('current-cat');
-						$('.yolo-spinner').html();
-						$('.archive-product-wrap').html(data);
+						$('.yolo-spinner').php();
+						$('.archive-product-wrap').php(data);
 						if ( $('.yolo-filter-search .yolo-search').hasClass('active') ) {
 							$('.yolo-search-field .search-field').val(keyword_search);
 						}
@@ -149,9 +149,9 @@
 						YOLO.common.tooltip();
 					}
 				});
-				$('.search-message').html('');
+				$('.search-message').php('');
 			} else {
-				$('.search-message').html(yolo_framework_constant.enter_keyword);
+				$('.search-message').php(yolo_framework_constant.enter_keyword);
 			}
 		});
 		/* End search */
@@ -163,7 +163,7 @@
 			var current_page 	= $(this).data('page');
 			var totalpage		= $(this).data('totalpage');
 			if ( totalpage < current_page ) {
-				$('.woocommerce-pagination').html('<div class="yolo-show-all giraffe-btn">' + yolo_framework_constant.yolo_all_products + '</div>').addClass('yolo-all-product');
+				$('.woocommerce-pagination').php('<div class="yolo-show-all giraffe-btn">' + yolo_framework_constant.yolo_all_products + '</div>').addClass('yolo-all-product');
 			} else {
 				$(this).attr('href', link.replace('%#%', current_page));
 				$(this).data('page', current_page + 1 );

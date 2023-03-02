@@ -137,7 +137,7 @@
 		          	var number_id = $(this).attr('id'),
 		              	date_time = $(this).attr('data-time');
 		          	$('#'+ number_id ).children().countdown(date_time, function(event) {
-		            	$(this).html(
+		            	$(this).php(
 		                	event.strftime('<ul class="list-time"><li class="cd-days"><p>' + days + '</p><p class="countdown-number">%D</p> </li> <li class="cd-hours"><p>' + hours + '</p><p class="countdown-number">%H</p></li> <li class="cd-minutes"><p>' + minutes + '</p><p class="countdown-number">%M</p></li> <li  class="cd-seconds"> <p>' + seconds + '</p><p class="countdown-number">%S</p></li></ul>')
 		              	);
 		          	});
@@ -161,7 +161,7 @@
 	                   success: function(data){
 	                        if(data){
 	                            $('.yolo-team-fix').addClass('bk-noimage');
-	                            $('.yolo-team-wrap').html(data);
+	                            $('.yolo-team-wrap').php(data);
 	                            $('.yolo-team-wrap').animate({
 	                                'top': '50%',
 	                                opacity: 1

@@ -135,34 +135,34 @@ function ModalEffectsInit() {
 
             if($event.teacher != null) {
                 jQuery(modal).find('.fc-teacher')
-                    .html($event.teacher);
+                    .php($event.teacher);
             } else {
                 jQuery(modal).find('.fc-teacher')
-                    .html('');
+                    .php('');
 			}
 
             if($event.level != null) {
                 jQuery(modal).find('.fc-level')
-                    .html($event.level);
+                    .php($event.level);
             } else {
                 jQuery(modal).find('.fc-level')
-                    .html('');
+                    .php('');
 			}
 
             if($event.address != null) {
                 jQuery(modal).find('.fc-address')
-                    .html($event.address);
+                    .php($event.address);
             } else {
                 jQuery(modal).find('.fc-address')
-                    .html('');
+                    .php('');
 			}
 
             if($event.excerpt != null) {
                 jQuery(modal).find('.fc-excerpt')
-                    .html($event.excerpt);
+                    .php($event.excerpt);
             } else {
                 jQuery(modal).find('.fc-excerpt')
-                    .html('');
+                    .php('');
 			}
 			if ( $event.register_link === "undefined" || $event.register_link === '') {
 				jQuery(modal).find('.fc-register a')

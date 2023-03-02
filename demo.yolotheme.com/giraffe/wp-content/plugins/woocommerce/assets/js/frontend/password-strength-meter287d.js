@@ -102,25 +102,25 @@
 
 			switch ( strength ) {
 				case 0 :
-					meter.addClass( 'short' ).html( pwsL10n['short'] + error );
+					meter.addClass( 'short' ).php( pwsL10n['short'] + error );
 					meter.after( hint_html );
 					break;
 				case 1 :
-					meter.addClass( 'bad' ).html( pwsL10n.bad + error );
+					meter.addClass( 'bad' ).php( pwsL10n.bad + error );
 					meter.after( hint_html );
 					break;
 				case 2 :
-					meter.addClass( 'bad' ).html( pwsL10n.bad + error );
+					meter.addClass( 'bad' ).php( pwsL10n.bad + error );
 					meter.after( hint_html );
 					break;
 				case 3 :
-					meter.addClass( 'good' ).html( pwsL10n.good + error );
+					meter.addClass( 'good' ).php( pwsL10n.good + error );
 					break;
 				case 4 :
-					meter.addClass( 'strong' ).html( pwsL10n.strong + error );
+					meter.addClass( 'strong' ).php( pwsL10n.strong + error );
 					break;
 				case 5 :
-					meter.addClass( 'short' ).html( pwsL10n.mismatch );
+					meter.addClass( 'short' ).php( pwsL10n.mismatch );
 					break;
 			}
 

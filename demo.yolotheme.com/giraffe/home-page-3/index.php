@@ -17,8 +17,8 @@
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/wp-emoji.js?ver=5.6.10","twemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/twemoji.js?ver=5.6.10"}};
 			/**
@@ -414,12 +414,12 @@ var wc_add_to_cart_params = {"ajax_url":"\/giraffe\/wp-admin\/admin-ajax.php","w
 </script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart287d.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/678.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/678.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6.10" />
 <meta name="generator" content="WooCommerce 4.8.0" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexc5e7.html?p=678' />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../indexc5e7.php?p=678' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedf8c7.json?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fhome-page-3%2F" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedb70f?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fhome-page-3%2F&amp;format=xml" />
 <meta name="framework" content="Redux 4.1.24" /><style data-type="vc_shortcodes-custom-css">.vc_custom_1594786041912{background: #f8f8f8 url(../wp-content/uploads/2020/07/footer-bg-229f0.jpg?id=4779) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1594972724859{padding-top: 63px !important;padding-bottom: 60px !important;}.vc_custom_1594780069426{padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1593502281735{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594969876977{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594974710294{margin-top: 30px !important;margin-bottom: 33px !important;}.vc_custom_1594780146725{border-top-width: 1px !important;padding-top: 35px !important;padding-bottom: 35px !important;border-top-color: rgba(255,255,255,0.2) !important;border-top-style: solid !important;border-radius: 1px !important;}.vc_custom_1650593824269{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -504,7 +504,7 @@ body.custom-background { background-color: #ffffff; }
                                 </div>
                             </div>
                             <div class="header-logo-mobile">
-                                <a href="../index.html" title="Skudriod dynamic services">
+                                <a href="../index.php" title="Skudriod dynamic services">
                                     <img src="../wp-content/uploads/4.png" alt="SKUDROID" />
                                 </a>
                             </div>
@@ -517,22 +517,22 @@ body.custom-background { background-color: #ffffff; }
 
 
                             <ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">Home</a></li>
-                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-                                <li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">Home</a></li>
+                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+                                <li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
                                     <ul class="sub-menu animated rotateX">
-                                        <li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-                                        <li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-                                        <li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+                                        <li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+                                        <li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+                                        <li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 
                             
                                     </ul>
 
                                     
                                 </li>
-                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-                                <li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-                                <li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+                                <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+                                <li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+                                <li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
                             </ul>
                         </div>
@@ -546,7 +546,7 @@ body.custom-background { background-color: #ffffff; }
                         <div class="yolo-header-wrapper">
                             <div class="header-left">
                                 <div class="header-logo">
-                                    <a href="../index.html" title="Giraffe - Just another WordPress site">
+                                    <a href="../index.php" title="Giraffe - Just another WordPress site">
                                         <img src="../wp-content/uploads/4.png" alt="Giraffe - Just another WordPress site" />
                                     </a>
                                 </div>
@@ -554,18 +554,18 @@ body.custom-background { background-color: #ffffff; }
                             <div class="header-right">
                                 <div id="primary-menu" class="menu-wrapper">
                                     <ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">Home</a></li>
-                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-                                        <li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">Home</a></li>
+                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+                                        <li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
                                             <ul class="sub-menu animated rotateX">
-                                                <li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-                                                <li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-                                                <li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+                                                <li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+                                                <li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+                                                <li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-                                        <li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-                                        <li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+                                        <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+                                        <li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+                                        <li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
                                     </ul>
                                     <div class="header-customize header-customize-nav">
@@ -1101,7 +1101,7 @@ body.custom-background { background-color: #ffffff; }
 
 
 
-                                        <div class='yolo-button-wrap' data-text='Contact Us'><a class='button' href="../contact/index.html">Contact Us</a></div>            
+                                        <div class='yolo-button-wrap' data-text='Contact Us'><a class='button' href="../contact/index.php">Contact Us</a></div>            
         </div>
         </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">                <div class="sc-video-player-wrap">
             <div id="yolo-video-639af406807a7" class="yolo-sc-video-player " style="height: 363px; background-image: url('../wp-content/uploads/2020/04/stem.png');" >
@@ -1308,7 +1308,7 @@ body.custom-background { background-color: #ffffff; }
                                 <div class="yolo-flex -row teacher-item"  >
                                     <div class="teacher-avatar-wrap yolo-flex -col -center fb-5">
                                             <div class="entry-teacher-bg" style="background-image: url('../wp-content/uploads/2018/10/teacher-07.jpg')"></div>
-                                            <a class="teacher-avatar" href="../teachers/alice-bohm/index.html">
+                                            <a class="teacher-avatar" href="../teachers/alice-bohm/index.php">
                                             </a>
                                                                                                                             <div class="teacher-social">
                                                 <ul>
@@ -1318,11 +1318,11 @@ body.custom-background { background-color: #ffffff; }
                                     
                                     <div class="teacher-info fb-7">
                                         <h3 class="teacher-title">
-                                            <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.html" rel="author">
+                                            <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.php" rel="author">
                                                 Alice Bohm                                            </a>
                                         </h3>
                                         <div class="teacher-category">
-                                             <a href="../class-category/health/index.html" rel="tag">Health</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                        </div>
+                                             <a href="../class-category/health/index.php" rel="tag">Health</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                        </div>
                                         <div class="teacher-excerpt">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore .</p>                                        </div>
                                         
@@ -1341,7 +1341,7 @@ body.custom-background { background-color: #ffffff; }
                                 <div class="yolo-flex -row teacher-item"  >
                                     <div class="teacher-avatar-wrap yolo-flex -col -center fb-5">
                                             <div class="entry-teacher-bg" style="background-image: url('../wp-content/uploads/2018/10/teacher-02.jpg')"></div>
-                                            <a class="teacher-avatar" href="../teachers/grom-frog/index.html">
+                                            <a class="teacher-avatar" href="../teachers/grom-frog/index.php">
                                             </a>
                                                                                                                             <div class="teacher-social">
                                                 <ul>
@@ -1351,11 +1351,11 @@ body.custom-background { background-color: #ffffff; }
                                     
                                     <div class="teacher-info fb-7">
                                         <h3 class="teacher-title">
-                                            <a title="Post by Grom Frog" href="../teachers/grom-frog/index.html" rel="author">
+                                            <a title="Post by Grom Frog" href="../teachers/grom-frog/index.php" rel="author">
                                                 Grom Frog                                            </a>
                                         </h3>
                                         <div class="teacher-category">
-                                             <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.html" rel="tag">Health</a>                                        </div>
+                                             <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.php" rel="tag">Health</a>                                        </div>
                                         <div class="teacher-excerpt">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore .</p>                                        </div>
                                         
@@ -1374,7 +1374,7 @@ body.custom-background { background-color: #ffffff; }
                                 <div class="yolo-flex -row teacher-item"  >
                                     <div class="teacher-avatar-wrap yolo-flex -col -center fb-5">
                                             <div class="entry-teacher-bg" style="background-image: url('../wp-content/uploads/2018/10/teacher-01.jpg')"></div>
-                                            <a class="teacher-avatar" href="../teachers/emily-backham/index.html">
+                                            <a class="teacher-avatar" href="../teachers/emily-backham/index.php">
                                             </a>
                                                                                                                             <div class="teacher-social">
                                                 <ul>
@@ -1384,11 +1384,11 @@ body.custom-background { background-color: #ffffff; }
                                     
                                     <div class="teacher-info fb-7">
                                         <h3 class="teacher-title">
-                                            <a title="Post by Emily Backham" href="../teachers/emily-backham/index.html" rel="author">
+                                            <a title="Post by Emily Backham" href="../teachers/emily-backham/index.php" rel="author">
                                                 Emily Backham                                            </a>
                                         </h3>
                                         <div class="teacher-category">
-                                             <a href="../class-category/math/index.html" rel="tag">Math</a>, <a href="../class-category/science/index.html" rel="tag">Science</a>                                        </div>
+                                             <a href="../class-category/math/index.php" rel="tag">Math</a>, <a href="../class-category/science/index.php" rel="tag">Science</a>                                        </div>
                                         <div class="teacher-excerpt">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore .</p>                                        </div>
                                         
@@ -1407,7 +1407,7 @@ body.custom-background { background-color: #ffffff; }
                                 <div class="yolo-flex -row teacher-item"  >
                                     <div class="teacher-avatar-wrap yolo-flex -col -center fb-5">
                                             <div class="entry-teacher-bg" style="background-image: url('../wp-content/uploads/2018/10/teacher-05.jpg')"></div>
-                                            <a class="teacher-avatar" href="../teachers/jenny-hilton/index.html">
+                                            <a class="teacher-avatar" href="../teachers/jenny-hilton/index.php">
                                             </a>
                                                                                                                             <div class="teacher-social">
                                                 <ul>
@@ -1417,11 +1417,11 @@ body.custom-background { background-color: #ffffff; }
                                     
                                     <div class="teacher-info fb-7">
                                         <h3 class="teacher-title">
-                                            <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.html" rel="author">
+                                            <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.php" rel="author">
                                                 Jenny Hilton                                            </a>
                                         </h3>
                                         <div class="teacher-category">
-                                             <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                        </div>
+                                             <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                        </div>
                                         <div class="teacher-excerpt">
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore .</p>                                        </div>
                                         
@@ -1605,7 +1605,7 @@ body.custom-background { background-color: #ffffff; }
 					                            <img width="25" height="22" src="../wp-content/uploads/2018/10/icon1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />					                        </div>
 					                        					                </div>
 						            
-							        							            <a class="featured-link" href="../classes/swimming-lesson-class/index.html" aria-hidden="true" >
+							        							            <a class="featured-link" href="../classes/swimming-lesson-class/index.php" aria-hidden="true" >
 							                <div class="loop-item-featured">
 								                <div class="item-featured-bg" style="background-image: url('../wp-content/uploads/2018/10/class-15.jpg')">
 								                </div>
@@ -1618,9 +1618,9 @@ body.custom-background { background-color: #ffffff; }
 						                        						                </div>
 							            <div class="loop-item-content-summary">
 							                <span class="category-meta">
-							                    <a href="../class-category/environment/index.html" rel="tag">Environment</a>							                </span>
+							                    <a href="../class-category/environment/index.php" rel="tag">Environment</a>							                </span>
 							                <h3 class="title">
-							                    <a href="../classes/swimming-lesson-class/index.html" title="Permanent link to: &quot;Swimming Lesson Class&quot;">Swimming Lesson Class</a>
+							                    <a href="../classes/swimming-lesson-class/index.php" title="Permanent link to: &quot;Swimming Lesson Class&quot;">Swimming Lesson Class</a>
 							                </h3>
 							            	
 							                <div class="entry-meta meta">
@@ -1629,13 +1629,13 @@ body.custom-background { background-color: #ffffff; }
 							                    							                </div>
 
 							                <div class="course-meta meta">
-							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/amy-adams/index.html">Amy Adams</a>
-							                            ,							                        							                            <a href="../teachers/linda-glendell/index.html">Linda Glendell</a>
+							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/amy-adams/index.php">Amy Adams</a>
+							                            ,							                        							                            <a href="../teachers/linda-glendell/index.php">Linda Glendell</a>
 							                            							                        							                </div>
 
 							                <div class="entry-meta-more">
 							                    <div class="nbi__readmore">
-							                        <a class="icon-btn btn-readmore-wrap" href="../classes/swimming-lesson-class/index.html">
+							                        <a class="icon-btn btn-readmore-wrap" href="../classes/swimming-lesson-class/index.php">
 							                            <h6 class="m0 text btn-readmore btn-readmore-heading">
 							                                Enroll Now							                            </h6>
 							                        </a>
@@ -1660,7 +1660,7 @@ body.custom-background { background-color: #ffffff; }
 					                            <img width="25" height="22" src="../wp-content/uploads/2018/10/icon1.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />					                        </div>
 					                        					                </div>
 						            
-							        							            <a class="featured-link" href="../classes/color-match-class/index.html" aria-hidden="true" >
+							        							            <a class="featured-link" href="../classes/color-match-class/index.php" aria-hidden="true" >
 							                <div class="loop-item-featured">
 								                <div class="item-featured-bg" style="background-image: url('../wp-content/uploads/2018/10/class-22.jpg')">
 								                </div>
@@ -1673,9 +1673,9 @@ body.custom-background { background-color: #ffffff; }
 						                        						                </div>
 							            <div class="loop-item-content-summary">
 							                <span class="category-meta">
-							                    <a href="../class-category/science/index.html" rel="tag">Science</a>							                </span>
+							                    <a href="../class-category/science/index.php" rel="tag">Science</a>							                </span>
 							                <h3 class="title">
-							                    <a href="../classes/color-match-class/index.html" title="Permanent link to: &quot;Color Match Class&quot;">Color Match Class</a>
+							                    <a href="../classes/color-match-class/index.php" title="Permanent link to: &quot;Color Match Class&quot;">Color Match Class</a>
 							                </h3>
 							            	
 							                <div class="entry-meta meta">
@@ -1684,13 +1684,13 @@ body.custom-background { background-color: #ffffff; }
 							                    							                </div>
 
 							                <div class="course-meta meta">
-							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/jenny-hilton/index.html">Jenny Hilton</a>
-							                            ,							                        							                            <a href="../teachers/phill-rose/index.html">Phill Rose</a>
+							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/jenny-hilton/index.php">Jenny Hilton</a>
+							                            ,							                        							                            <a href="../teachers/phill-rose/index.php">Phill Rose</a>
 							                            							                        							                </div>
 
 							                <div class="entry-meta-more">
 							                    <div class="nbi__readmore">
-							                        <a class="icon-btn btn-readmore-wrap" href="../classes/color-match-class/index.html">
+							                        <a class="icon-btn btn-readmore-wrap" href="../classes/color-match-class/index.php">
 							                            <h6 class="m0 text btn-readmore btn-readmore-heading">
 							                                Enroll Now							                            </h6>
 							                        </a>
@@ -1715,7 +1715,7 @@ body.custom-background { background-color: #ffffff; }
 					                            <img width="22" height="22" src="../wp-content/uploads/2018/10/icon2.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />					                        </div>
 					                        					                </div>
 						            
-							        							            <a class="featured-link" href="../classes/shapes-match-class/index.html" aria-hidden="true" >
+							        							            <a class="featured-link" href="../classes/shapes-match-class/index.php" aria-hidden="true" >
 							                <div class="loop-item-featured">
 								                <div class="item-featured-bg" style="background-image: url('../wp-content/uploads/2018/10/class-09.jpg')">
 								                </div>
@@ -1728,9 +1728,9 @@ body.custom-background { background-color: #ffffff; }
 						                        						                </div>
 							            <div class="loop-item-content-summary">
 							                <span class="category-meta">
-							                    <a href="../class-category/math/index.html" rel="tag">Math</a>							                </span>
+							                    <a href="../class-category/math/index.php" rel="tag">Math</a>							                </span>
 							                <h3 class="title">
-							                    <a href="../classes/shapes-match-class/index.html" title="Permanent link to: &quot;Shapes Match Class&quot;">Shapes Match Class</a>
+							                    <a href="../classes/shapes-match-class/index.php" title="Permanent link to: &quot;Shapes Match Class&quot;">Shapes Match Class</a>
 							                </h3>
 							            	
 							                <div class="entry-meta meta">
@@ -1739,13 +1739,13 @@ body.custom-background { background-color: #ffffff; }
 							                    							                </div>
 
 							                <div class="course-meta meta">
-							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/grom-frog/index.html">Grom Frog</a>
-							                            ,							                        							                            <a href="../teachers/emily-backham/index.html">Emily Backham</a>
+							                    <i class="fas fa-user-tie"></i>							                            <a href="../teachers/grom-frog/index.php">Grom Frog</a>
+							                            ,							                        							                            <a href="../teachers/emily-backham/index.php">Emily Backham</a>
 							                            							                        							                </div>
 
 							                <div class="entry-meta-more">
 							                    <div class="nbi__readmore">
-							                        <a class="icon-btn btn-readmore-wrap" href="../classes/shapes-match-class/index.html">
+							                        <a class="icon-btn btn-readmore-wrap" href="../classes/shapes-match-class/index.php">
 							                            <h6 class="m0 text btn-readmore btn-readmore-heading">
 							                                Enroll Now							                            </h6>
 							                        </a>
@@ -1811,7 +1811,7 @@ body.custom-background { background-color: #ffffff; }
 		                            var masonry_container = _this.parents('.loadmore-wrap').find('.masonry-container');
 		                            posts_loop_content.find('.loader-wrap').remove();
 		                             _this.attr('data-start', data.offset);
-	                                    var items = $(data.html.toString());
+	                                    var items = $(data.php.toString());
 
 		                             // masony
                                     var $container = jQuery('.grid-mansory .posts-loop-content');
@@ -1957,14 +1957,14 @@ body.custom-background { background-color: #ffffff; }
     <div class="blog-item-wrap yolo-flex -col">
         <div class="nbi__thumbnail">
             <div class="entry-thumbnail-bg" style="background-image: url('../wp-content/uploads/2018/10/blog-07.jpg')"></div>
-            <a class="entry-link" href="../full-day-session-with-new-activities/index.html" title="Full-Day Session with New Activities"></a>
+            <a class="entry-link" href="../full-day-session-with-new-activities/index.php" title="Full-Day Session with New Activities"></a>
         </div>
 
         <div class="nbi__content">
                             <div class="entry-meta-category">
-                    <a href="../category/communication/index.html" rel="category tag">Communication</a>                </div>
+                    <a href="../category/communication/index.php" rel="category tag">Communication</a>                </div>
                         <h4 class="entry-title">
-                <a  href="../full-day-session-with-new-activities/index.html" rel="bookmark"
+                <a  href="../full-day-session-with-new-activities/index.php" rel="bookmark"
                    title="Full-Day Session with New Activities">Full-Day Session with New Activities</a>
             </h4>
 
@@ -1987,14 +1987,14 @@ body.custom-background { background-color: #ffffff; }
     <div class="blog-item-wrap yolo-flex -col">
         <div class="nbi__thumbnail">
             <div class="entry-thumbnail-bg" style="background-image: url('../wp-content/uploads/2018/10/blog-12.jpg')"></div>
-            <a class="entry-link" href="../how-to-draw-a-school-step-by-step/index.html" title="How to draw a school step by step?"></a>
+            <a class="entry-link" href="../how-to-draw-a-school-step-by-step/index.php" title="How to draw a school step by step?"></a>
         </div>
 
         <div class="nbi__content">
                             <div class="entry-meta-category">
-                    <a href="../category/creativity/index.html" rel="category tag">Creativity</a>                </div>
+                    <a href="../category/creativity/index.php" rel="category tag">Creativity</a>                </div>
                         <h4 class="entry-title">
-                <a  href="../how-to-draw-a-school-step-by-step/index.html" rel="bookmark"
+                <a  href="../how-to-draw-a-school-step-by-step/index.php" rel="bookmark"
                    title="How to draw a school step by step?">How to draw a school step by step?</a>
             </h4>
 
@@ -2017,14 +2017,14 @@ body.custom-background { background-color: #ffffff; }
     <div class="blog-item-wrap yolo-flex -col">
         <div class="nbi__thumbnail">
             <div class="entry-thumbnail-bg" style="background-image: url('../wp-content/uploads/2018/10/blog-08.jpg')"></div>
-            <a class="entry-link" href="../helping-your-child-with-socialization/index.html" title="Helping Your Child with Socialization"></a>
+            <a class="entry-link" href="../helping-your-child-with-socialization/index.php" title="Helping Your Child with Socialization"></a>
         </div>
 
         <div class="nbi__content">
                             <div class="entry-meta-category">
-                    <a href="../category/psychology/index.html" rel="category tag">Psychology</a>                </div>
+                    <a href="../category/psychology/index.php" rel="category tag">Psychology</a>                </div>
                         <h4 class="entry-title">
-                <a  href="../helping-your-child-with-socialization/index.html" rel="bookmark"
+                <a  href="../helping-your-child-with-socialization/index.php" rel="bookmark"
                    title="Helping Your Child with Socialization">Helping Your Child with Socialization</a>
             </h4>
 
@@ -2047,14 +2047,14 @@ body.custom-background { background-color: #ffffff; }
     <div class="blog-item-wrap yolo-flex -col">
         <div class="nbi__thumbnail">
             <div class="entry-thumbnail-bg" style="background-image: url('../wp-content/uploads/2018/10/blog-10.jpg')"></div>
-            <a class="entry-link" href="../20-fun-activities-to-do-with-your-kids/index.html" title="20 Fun Activities to Do With Your Kids"></a>
+            <a class="entry-link" href="../20-fun-activities-to-do-with-your-kids/index.php" title="20 Fun Activities to Do With Your Kids"></a>
         </div>
 
         <div class="nbi__content">
                             <div class="entry-meta-category">
-                    <a href="../category/activity/index.html" rel="category tag">Activity</a>                </div>
+                    <a href="../category/activity/index.php" rel="category tag">Activity</a>                </div>
                         <h4 class="entry-title">
-                <a  href="../20-fun-activities-to-do-with-your-kids/index.html" rel="bookmark"
+                <a  href="../20-fun-activities-to-do-with-your-kids/index.php" rel="bookmark"
                    title="20 Fun Activities to Do With Your Kids">20 Fun Activities to Do With Your Kids</a>
             </h4>
 
@@ -2123,7 +2123,7 @@ body.custom-background { background-color: #ffffff; }
         <span class="time">May</span>
     </div>
     <div class="item__detail yolo-flex -col -center">
-        <a href="../events/summer-camp/index.html" title="Summer Camp">
+        <a href="../events/summer-camp/index.php" title="Summer Camp">
             <h4 class="mt0 mb0 title-item__timeline">Summer Camp</h4>
         </a>
         <p class="schedule mb0"><i class="fa fa-clock-o "></i>
@@ -2131,7 +2131,7 @@ body.custom-background { background-color: #ffffff; }
         </p>
         <div class="mt0 excerpt">
             <div>
-                <a class="c-sunflower-b " href="../events/summer-camp/index.html" title="Summer Camp">
+                <a class="c-sunflower-b " href="../events/summer-camp/index.php" title="Summer Camp">
                     REGISTER NOW!                </a>
             </div>
         </div>
@@ -2142,7 +2142,7 @@ body.custom-background { background-color: #ffffff; }
         <span class="time">Jul</span>
     </div>
     <div class="item__detail yolo-flex -col -center">
-        <a href="../events/music-for-toddlers/index.html" title="Music for Toddlers">
+        <a href="../events/music-for-toddlers/index.php" title="Music for Toddlers">
             <h4 class="mt0 mb0 title-item__timeline">Music for Toddlers</h4>
         </a>
         <p class="schedule mb0"><i class="fa fa-clock-o "></i>
@@ -2150,7 +2150,7 @@ body.custom-background { background-color: #ffffff; }
         </p>
         <div class="mt0 excerpt">
             <div>
-                <a class="c-sunflower-b " href="../events/music-for-toddlers/index.html" title="Music for Toddlers">
+                <a class="c-sunflower-b " href="../events/music-for-toddlers/index.php" title="Music for Toddlers">
                     REGISTER NOW!                </a>
             </div>
         </div>
@@ -2161,7 +2161,7 @@ body.custom-background { background-color: #ffffff; }
         <span class="time">Apr</span>
     </div>
     <div class="item__detail yolo-flex -col -center">
-        <a href="../events/science-class-for-toddlers/index.html" title="Science Class for Toddlers">
+        <a href="../events/science-class-for-toddlers/index.php" title="Science Class for Toddlers">
             <h4 class="mt0 mb0 title-item__timeline">Science Class for Toddlers</h4>
         </a>
         <p class="schedule mb0"><i class="fa fa-clock-o "></i>
@@ -2169,7 +2169,7 @@ body.custom-background { background-color: #ffffff; }
         </p>
         <div class="mt0 excerpt">
             <div>
-                <a class="c-sunflower-b " href="../events/science-class-for-toddlers/index.html" title="Science Class for Toddlers">
+                <a class="c-sunflower-b " href="../events/science-class-for-toddlers/index.php" title="Science Class for Toddlers">
                     REGISTER NOW!                </a>
             </div>
         </div>
@@ -2180,7 +2180,7 @@ body.custom-background { background-color: #ffffff; }
         <span class="time">May</span>
     </div>
     <div class="item__detail yolo-flex -col -center">
-        <a href="../events/family-field-day/index.html" title="Family Field Day">
+        <a href="../events/family-field-day/index.php" title="Family Field Day">
             <h4 class="mt0 mb0 title-item__timeline">Family Field Day</h4>
         </a>
         <p class="schedule mb0"><i class="fa fa-clock-o "></i>
@@ -2188,7 +2188,7 @@ body.custom-background { background-color: #ffffff; }
         </p>
         <div class="mt0 excerpt">
             <div>
-                <a class="c-sunflower-b " href="../events/family-field-day/index.html" title="Family Field Day">
+                <a class="c-sunflower-b " href="../events/family-field-day/index.php" title="Family Field Day">
                     REGISTER NOW!                </a>
             </div>
         </div>
@@ -2455,14 +2455,14 @@ body.custom-background { background-color: #ffffff; }
 		</li>
 </ul>
 </div>            </div>
-	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.html">Home</a></li>
-<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.html">Blog</a></li>
-<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.html">Contact</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.html">Our Program</a></li>
-<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.html">Classes</a></li>
-<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.html">Teachers</a></li>
-<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.html">Events</a></li>
+	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.php">Home</a></li>
+<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.php">Blog</a></li>
+<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.php">Contact</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.php">Our Program</a></li>
+<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.php">Classes</a></li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.php">Teachers</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.php">Events</a></li>
 <li id="menu-item-4844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4844"><a href="#__">Privacy policy</a></li>
 <li id="menu-item-4845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4845"><a href="#__">Terms of services</a></li>
 </ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >@ 2023 Copyrights by skudriod All Rights Reserved</mark></h2></div></div></div></div></div></div></div></div></div></div>
@@ -2593,9 +2593,9 @@ var yith_woocompare = {"ajaxurl":"\/giraffe\/?wc-ajax=%%endpoint%%","actionadd":
 /* <![CDATA[ */
 var yolo_framework_app = {"ajax_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php","image_load":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/images\/spinner.gif"};
 var yolo_framework_constant = {"product_compare":"Compare","product_wishList":"WishList","product_wishList_added":"Browse WishList","product_quickview":"Quick View","product_addtocart":"Add To Cart","enter_keyword":"Please enter keyword to search","yolo_all_products":"All products loaded","get_search_url":"https:\/\/demo.yolotheme.com\/giraffe\/?s="};
-var yolo_framework_ajax_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
-var yolo_framework_theme_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
-var yolo_framework_site_url = "index.html\/\/demo.yolotheme.com\/giraffe";
+var yolo_framework_ajax_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
+var yolo_framework_theme_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
+var yolo_framework_site_url = "index.php\/\/demo.yolotheme.com\/giraffe";
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/yolo-giraffe/assets/js/yolo-main.js' id='yolo_framework_app-js'></script>

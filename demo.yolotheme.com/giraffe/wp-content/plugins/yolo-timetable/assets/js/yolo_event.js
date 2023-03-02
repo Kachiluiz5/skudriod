@@ -239,13 +239,13 @@ jQuery(document).ready(function($) {
                          * Update source
                          */
                             $('.archive-yolo-event-head').remove();
-                            $('.event-wrap').html(data);
+                            $('.event-wrap').php(data);
                             $('.archive-yolo-event-item-wrap').addClass('zoomIn');
 
                         /**
                          * Update count event
                          */
-                            // $( '.yolo-event-text span' ).html( $('.archive-yolo-event-item').length );
+                            // $( '.yolo-event-text span' ).php( $('.archive-yolo-event-item').length );
                     });
 
                 }
@@ -289,7 +289,7 @@ jQuery(document).ready(function($) {
                  */
                     $('.archive-yolo-event-item-wrap').addClass('hide-item');
                     $.post(yoloEvent.ajax_url, data, function( data ) {
-                        $('.event-wrap').html(data);
+                        $('.event-wrap').php(data);
                         $('.archive-yolo-event-item-wrap').addClass('zoomIn');
                     });
             });
@@ -326,7 +326,7 @@ jQuery(document).ready(function($) {
                  */
                     $('.archive-yolo-event-item-wrap').addClass('hide-item');
                     $.post(yoloEvent.ajax_url, data, function( data ) {
-                        $('.event-wrap').html(data);
+                        $('.event-wrap').php(data);
                         $('.archive-yolo-event-item-wrap').addClass('zoomIn');
                     });
             });
@@ -360,7 +360,7 @@ jQuery(document).ready(function($) {
                      * Update source
                      */
                         $('.archive-yolo-event-head').remove();
-                        $('.event-wrap').html(data);
+                        $('.event-wrap').php(data);
                         $('.archive-yolo-event-item-wrap').addClass('zoomIn');
 
                 });
@@ -441,7 +441,7 @@ jQuery(document).ready(function($) {
                             /**
                              * Update source code
                              */
-                                $$.html(response);
+                                $$.php(response);
 
                         });
 

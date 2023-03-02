@@ -18,8 +18,8 @@
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/wp-emoji.js?ver=5.6.10","twemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/twemoji.js?ver=5.6.10"}};
 			/**
@@ -414,7 +414,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/giraffe\/wp-admin\/admin-ajax.php","w
 </script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart287d.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6.10" />
 <meta name="generator" content="WooCommerce 4.8.0" />
@@ -498,7 +498,7 @@ body.custom-background { background-color: #ffffff; }
 </div>																	
 				</div>
 									<div class="header-logo-mobile">
-						<a  href="../index.html" title="Giraffe - Just another WordPress site">
+						<a  href="../index.php" title="Giraffe - Just another WordPress site">
 							<img src="../wp-content/uploads/4.png" alt="Giraffe - Just another WordPress site" />
 						</a>
 					</div>
@@ -509,18 +509,18 @@ body.custom-background { background-color: #ffffff; }
 			<button type="submit"><i class="fas fa-search"></i></button>
 		</form>
 		<ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-			<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+			<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
 </ul>								
 			</div>
@@ -533,7 +533,7 @@ body.custom-background { background-color: #ffffff; }
 			<div class="yolo-header-wrapper">
 				<div class="header-left">
 					<div class="header-logo">
-	<a  href="../index.html" title="Giraffe - Just another WordPress site">
+	<a  href="../index.php" title="Giraffe - Just another WordPress site">
 		<img src="../wp-content/uploads/4.png" alt="Giraffe - Just another WordPress site" />
 	</a>
 </div>
@@ -541,18 +541,18 @@ body.custom-background { background-color: #ffffff; }
 				<div class="header-center">
 													<div id="primary-menu" class="menu-wrapper">
 														<ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-															<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-						<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+															<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+						<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 						<ul class="sub-menu animated rotateX">
-							<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-							<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-							<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+							<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+							<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+							<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 						</ul>
 						</li>
-						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-						<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-						<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+						<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+						<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 						
 						</ul>															</div>
 										</div>
@@ -598,7 +598,7 @@ body.custom-background { background-color: #ffffff; }
                                                             </div>
                         </div>
                                                     <div class="yolo-breadcrumb-wrap">
-                                	<ul class="breadcrumbs"><li><a href="../index.html" class="home">Home</a></li><li><span>Blog</span></li></ul>                            </div>
+                                	<ul class="breadcrumbs"><li><a href="../index.php" class="home">Home</a></li><li><span>Blog</span></li></ul>                            </div>
                                             </div>
                 </div>
             </section>
@@ -615,7 +615,7 @@ body.custom-background { background-color: #ffffff; }
 <article id="post-3573" class="yolo-isotope-item clearfix post-3573 post type-post status-publish format-standard has-post-thumbnail hentry category-communication tag-activity tag-creative tag-kindergarten">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../full-day-session-with-new-activities/index.html">
+                    <a href="../full-day-session-with-new-activities/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-07.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -623,14 +623,14 @@ body.custom-background { background-color: #ffffff; }
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../full-day-session-with-new-activities/index.html" rel="bookmark"
+                <a href="../full-day-session-with-new-activities/index.php" rel="bookmark"
                    title="Full-Day Session with New Activities">Full-Day Session with New Activities</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:40:18+00:00">
@@ -640,14 +640,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/communication/index.html" title="View all posts in: &ldquo;Communication&rdquo;"> Communication</a></span>
-<span class="meta-comment"><a href="../full-day-session-with-new-activities/index.html#comments" title="View a comment on: &ldquo;Full-Day Session with New Activities&rdquo;" class="meta-comments"><i class="far fa-comments"></i> 1 </a></span>            </div>
+<a href="../category/communication/index.php" title="View all posts in: &ldquo;Communication&rdquo;"> Communication</a></span>
+<span class="meta-comment"><a href="../full-day-session-with-new-activities/index.php#comments" title="View a comment on: &ldquo;Full-Day Session with New Activities&rdquo;" class="meta-comments"><i class="far fa-comments"></i> 1 </a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../full-day-session-with-new-activities/index.html" class="giraffe-btn">Read More</a>
+                <a href="../full-day-session-with-new-activities/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -655,7 +655,7 @@ Apr 7, 2020
 <article id="post-3571" class="yolo-isotope-item clearfix post-3571 post type-post status-publish format-standard has-post-thumbnail hentry category-creativity tag-draw">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../how-to-draw-a-school-step-by-step/index.html">
+                    <a href="../how-to-draw-a-school-step-by-step/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-12.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -663,14 +663,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../how-to-draw-a-school-step-by-step/index.html" rel="bookmark"
+                <a href="../how-to-draw-a-school-step-by-step/index.php" rel="bookmark"
                    title="How to draw a school step by step?">How to draw a school step by step?</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:38:49+00:00">
@@ -680,14 +680,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/creativity/index.html" title="View all posts in: &ldquo;Creativity&rdquo;"> Creativity</a></span>
-<span class="meta-comment"><a href="../how-to-draw-a-school-step-by-step/index.html#comments" title="View a comment on: &ldquo;How to draw a school step by step?&rdquo;" class="meta-comments"><i class="far fa-comments"></i> 1 </a></span>            </div>
+<a href="../category/creativity/index.php" title="View all posts in: &ldquo;Creativity&rdquo;"> Creativity</a></span>
+<span class="meta-comment"><a href="../how-to-draw-a-school-step-by-step/index.php#comments" title="View a comment on: &ldquo;How to draw a school step by step?&rdquo;" class="meta-comments"><i class="far fa-comments"></i> 1 </a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../how-to-draw-a-school-step-by-step/index.html" class="giraffe-btn">Read More</a>
+                <a href="../how-to-draw-a-school-step-by-step/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -695,7 +695,7 @@ Apr 7, 2020
 <article id="post-3569" class="yolo-isotope-item clearfix post-3569 post type-post status-publish format-standard has-post-thumbnail hentry category-psychology tag-social">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../helping-your-child-with-socialization/index.html">
+                    <a href="../helping-your-child-with-socialization/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-08.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -703,14 +703,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../helping-your-child-with-socialization/index.html" rel="bookmark"
+                <a href="../helping-your-child-with-socialization/index.php" rel="bookmark"
                    title="Helping Your Child with Socialization">Helping Your Child with Socialization</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:38:01+00:00">
@@ -720,14 +720,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/psychology/index.html" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
-<span class="meta-comment"><a href="../helping-your-child-with-socialization/index.html#respond" title="Leave a comment on: &ldquo;Helping Your Child with Socialization&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
+<a href="../category/psychology/index.php" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
+<span class="meta-comment"><a href="../helping-your-child-with-socialization/index.php#respond" title="Leave a comment on: &ldquo;Helping Your Child with Socialization&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../helping-your-child-with-socialization/index.html" class="giraffe-btn">Read More</a>
+                <a href="../helping-your-child-with-socialization/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -735,7 +735,7 @@ Apr 7, 2020
 <article id="post-3567" class="yolo-isotope-item clearfix post-3567 post type-post status-publish format-standard has-post-thumbnail hentry category-activity tag-activities">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../20-fun-activities-to-do-with-your-kids/index.html">
+                    <a href="../20-fun-activities-to-do-with-your-kids/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-10.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-10.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-10-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-10-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-10-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -743,14 +743,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../20-fun-activities-to-do-with-your-kids/index.html" rel="bookmark"
+                <a href="../20-fun-activities-to-do-with-your-kids/index.php" rel="bookmark"
                    title="20 Fun Activities to Do With Your Kids">20 Fun Activities to Do With Your Kids</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:37:16+00:00">
@@ -760,14 +760,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/activity/index.html" title="View all posts in: &ldquo;Activity&rdquo;"> Activity</a></span>
-<span class="meta-comment"><a href="../20-fun-activities-to-do-with-your-kids/index.html#respond" title="Leave a comment on: &ldquo;20 Fun Activities to Do With Your Kids&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
+<a href="../category/activity/index.php" title="View all posts in: &ldquo;Activity&rdquo;"> Activity</a></span>
+<span class="meta-comment"><a href="../20-fun-activities-to-do-with-your-kids/index.php#respond" title="Leave a comment on: &ldquo;20 Fun Activities to Do With Your Kids&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../20-fun-activities-to-do-with-your-kids/index.html" class="giraffe-btn">Read More</a>
+                <a href="../20-fun-activities-to-do-with-your-kids/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -775,7 +775,7 @@ Apr 7, 2020
 <article id="post-3565" class="yolo-isotope-item clearfix post-3565 post type-post status-publish format-standard has-post-thumbnail hentry category-creativity tag-social">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../psychology-may-be-you-completed-online/index.html">
+                    <a href="../psychology-may-be-you-completed-online/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-13.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-13.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-13-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-13-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-13-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -783,14 +783,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../psychology-may-be-you-completed-online/index.html" rel="bookmark"
+                <a href="../psychology-may-be-you-completed-online/index.php" rel="bookmark"
                    title="Psychology may be you completed online">Psychology may be you completed online</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:36:21+00:00">
@@ -800,14 +800,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/creativity/index.html" title="View all posts in: &ldquo;Creativity&rdquo;"> Creativity</a></span>
-<span class="meta-comment"><a href="../psychology-may-be-you-completed-online/index.html#respond" title="Leave a comment on: &ldquo;Psychology may be you completed online&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
+<a href="../category/creativity/index.php" title="View all posts in: &ldquo;Creativity&rdquo;"> Creativity</a></span>
+<span class="meta-comment"><a href="../psychology-may-be-you-completed-online/index.php#respond" title="Leave a comment on: &ldquo;Psychology may be you completed online&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../psychology-may-be-you-completed-online/index.html" class="giraffe-btn">Read More</a>
+                <a href="../psychology-may-be-you-completed-online/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -815,7 +815,7 @@ Apr 7, 2020
 <article id="post-3563" class="yolo-isotope-item clearfix post-3563 post type-post status-publish format-standard has-post-thumbnail hentry category-psychology tag-online">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../worlds-largest-online-learning-platform/index.html">
+                    <a href="../worlds-largest-online-learning-platform/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-09.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-09.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-09-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-09-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-09-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -823,14 +823,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../worlds-largest-online-learning-platform/index.html" rel="bookmark"
+                <a href="../worlds-largest-online-learning-platform/index.php" rel="bookmark"
                    title="World&#8217;s largest online learning platform">World&#8217;s largest online learning platform</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:35:42+00:00">
@@ -840,14 +840,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/psychology/index.html" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
-<span class="meta-comment"><a href="../worlds-largest-online-learning-platform/index.html#respond" title="Leave a comment on: &ldquo;World&#8217;s largest online learning platform&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
+<a href="../category/psychology/index.php" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
+<span class="meta-comment"><a href="../worlds-largest-online-learning-platform/index.php#respond" title="Leave a comment on: &ldquo;World&#8217;s largest online learning platform&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../worlds-largest-online-learning-platform/index.html" class="giraffe-btn">Read More</a>
+                <a href="../worlds-largest-online-learning-platform/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -855,7 +855,7 @@ Apr 7, 2020
 <article id="post-3561" class="yolo-isotope-item clearfix post-3561 post type-post status-publish format-standard has-post-thumbnail hentry category-communication tag-activities">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../after-school-activities-for-kids/index.html">
+                    <a href="../after-school-activities-for-kids/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-05.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-05.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-05-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-05-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-05-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -863,14 +863,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../after-school-activities-for-kids/index.html" rel="bookmark"
+                <a href="../after-school-activities-for-kids/index.php" rel="bookmark"
                    title="After School Activities For Kids">After School Activities For Kids</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:32:30+00:00">
@@ -880,14 +880,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/communication/index.html" title="View all posts in: &ldquo;Communication&rdquo;"> Communication</a></span>
-<span class="meta-comment"><a href="../after-school-activities-for-kids/index.html#respond" title="Leave a comment on: &ldquo;After School Activities For Kids&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
+<a href="../category/communication/index.php" title="View all posts in: &ldquo;Communication&rdquo;"> Communication</a></span>
+<span class="meta-comment"><a href="../after-school-activities-for-kids/index.php#respond" title="Leave a comment on: &ldquo;After School Activities For Kids&rdquo;" class="meta-comments"><i class="far fa-comments"></i>0</a></span>            </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../after-school-activities-for-kids/index.html" class="giraffe-btn">Read More</a>
+                <a href="../after-school-activities-for-kids/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -895,7 +895,7 @@ Apr 7, 2020
 <article id="post-3559" class="yolo-isotope-item clearfix post-3559 post type-post status-publish format-standard has-post-thumbnail hentry category-psychology tag-activities">
     <div class="grf-post-item yolo-flex -row">
                                     <div class="post-thumbnail">
-                    <a href="../misses-about-bette-davis-joan-crawford/index.html">
+                    <a href="../misses-about-bette-davis-joan-crawford/index.php">
                         <img width="1000" height="650" src="../wp-content/uploads/2018/10/blog-04.jpg" class="attachment-full size-full wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-04.jpg 1000w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-04-300x195.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-04-768x499.jpg 768w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-04-600x390.jpg 600w" sizes="(max-width: 1000px) 100vw, 1000px" />                    </a>
                 </div><!-- .post-thumbnail -->
             
@@ -903,14 +903,14 @@ Apr 7, 2020
         <div class="gpi__content fb-7">
              
             <h4 class="entry-title">
-                <a href="../misses-about-bette-davis-joan-crawford/index.html" rel="bookmark"
+                <a href="../misses-about-bette-davis-joan-crawford/index.php" rel="bookmark"
                    title="Misses About Bette Davis, Joan Crawford">Misses About Bette Davis, Joan Crawford</a>
             </h4>
 
             <div class="entry-post-meta-wrap">
                 <span class="meta-author">
 <i class="far fa-user"></i>
-<a href="../author/admin/index.html" title="Posts by John Smith" rel="author">John Smith</a>
+<a href="../author/admin/index.php" title="Posts by John Smith" rel="author">John Smith</a>
 </span>
 <span class="meta-time">
 <time class="entry-date" datetime="2020-04-07T03:29:40+00:00">
@@ -920,14 +920,14 @@ Apr 7, 2020
 </span>
 <span class="meta-category">
 <i class="fas fa-list-ul"></i>
-<a href="../category/psychology/index.html" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
+<a href="../category/psychology/index.php" title="View all posts in: &ldquo;Psychology&rdquo;"> Psychology</a></span>
             </div>
 
             <div class="post-excerpt">
                 <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia the the consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt neque porro is quisquam est, qui dolorem ipsum quia dolor sit amet consectetur adipisci velit sed quia a non numquam eius modi tempora incidunt.</p>
             </div>
             <div class="entry-btn">
-                <a href="../misses-about-bette-davis-joan-crawford/index.html" class="giraffe-btn">Read More</a>
+                <a href="../misses-about-bette-davis-joan-crawford/index.php" class="giraffe-btn">Read More</a>
             </div>
         </div>
     </div>
@@ -935,8 +935,8 @@ Apr 7, 2020
                                             <div class="blog-paging-wrapper blog-paging-default text-right">
                             <ul class='pagination'>
 	<li><span aria-current="page" class="page-numbers current">1</span></li>
-	<li><a class="page-numbers" href="page/2/index.html">2</a></li>
-	<li><a class="next page-numbers" href="page/2/index.html"><i class="fas fa-chevron-right"></i></a></li>
+	<li><a class="page-numbers" href="page/2/index.php">2</a></li>
+	<li><a class="next page-numbers" href="page/2/index.php"><i class="fas fa-chevron-right"></i></a></li>
 </ul>
                         </div>
                                     </div>
@@ -948,7 +948,7 @@ Apr 7, 2020
                         <aside id="search-2" class="widget widget_search"><h4 class="widget-title"><span>Search</span></h4><form role="search" class="search-form" method="get" id="searchform" action="https://demo.yolotheme.com/giraffe/">
 	                <input type="text" value="" name="s" id="s"  placeholder="Search Here...">
 	                <button type="submit"><i class="fas fa-search"></i></button>
-	     		</form></aside><aside id="yolo_widget_post_thumbnail-4" class="widget widget-post-thumbnail"><h4 class="widget-title"><span>Latest Post</span></h4><ul class="posts-thumbnail-list size-thumbnail"><li class="clearfix"><a  class="posts-thumbnail-image" href="../full-day-session-with-new-activities/index.html"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-07-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="Full-Day Session with New Activities" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../full-day-session-with-new-activities/index.html" title="Full-Day Session with New Activities">Full-Day Session with New Activities</a></h4><span datetime="2020-04-07T03:40:18+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../full-day-session-with-new-activities/index.html#comments">1</a></span></div></div></li><li class="clearfix"><a  class="posts-thumbnail-image" href="../how-to-draw-a-school-step-by-step/index.html"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-12-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="How to draw a school step by step?" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../how-to-draw-a-school-step-by-step/index.html" title="How to draw a school step by step?">How to draw a school step by step?</a></h4><span datetime="2020-04-07T03:38:49+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../how-to-draw-a-school-step-by-step/index.html#comments">1</a></span></div></div></li><li class="clearfix"><a  class="posts-thumbnail-image" href="../helping-your-child-with-socialization/index.html"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-08-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="Helping Your Child with Socialization" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../helping-your-child-with-socialization/index.html" title="Helping Your Child with Socialization">Helping Your Child with Socialization</a></h4><span datetime="2020-04-07T03:38:01+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../helping-your-child-with-socialization/index.html#respond">0</a></span></div></div></li></ul></aside><aside id="categories-4" class="widget widget_categories"><h4 class="widget-title"><span></span></h4>
+	     		</form></aside><aside id="yolo_widget_post_thumbnail-4" class="widget widget-post-thumbnail"><h4 class="widget-title"><span>Latest Post</span></h4><ul class="posts-thumbnail-list size-thumbnail"><li class="clearfix"><a  class="posts-thumbnail-image" href="../full-day-session-with-new-activities/index.php"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-07-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="Full-Day Session with New Activities" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-07-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../full-day-session-with-new-activities/index.php" title="Full-Day Session with New Activities">Full-Day Session with New Activities</a></h4><span datetime="2020-04-07T03:40:18+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../full-day-session-with-new-activities/index.php#comments">1</a></span></div></div></li><li class="clearfix"><a  class="posts-thumbnail-image" href="../how-to-draw-a-school-step-by-step/index.php"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-12-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="How to draw a school step by step?" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-12-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../how-to-draw-a-school-step-by-step/index.php" title="How to draw a school step by step?">How to draw a school step by step?</a></h4><span datetime="2020-04-07T03:38:49+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../how-to-draw-a-school-step-by-step/index.php#comments">1</a></span></div></div></li><li class="clearfix"><a  class="posts-thumbnail-image" href="../helping-your-child-with-socialization/index.php"><img width="300" height="300" src="../wp-content/uploads/2018/10/blog-08-300x300.jpg" class="attachment-300x300 size-300x300 wp-post-image" alt="" loading="lazy" title="Helping Your Child with Socialization" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/blog-08-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="posts-thumbnail-content"><div class="posts-thumbnail-meta entry-meta"><h4><a href="../helping-your-child-with-socialization/index.php" title="Helping Your Child with Socialization">Helping Your Child with Socialization</a></h4><span datetime="2020-04-07T03:38:01+00:00">April 7, 2020</span> <span class="comment-count"><i class="far fa-comments"></i><a href="../helping-your-child-with-socialization/index.php#respond">0</a></span></div></div></li></ul></aside><aside id="categories-4" class="widget widget_categories"><h4 class="widget-title"><span></span></h4>
 			
 			
 			
@@ -960,26 +960,26 @@ Apr 7, 2020
 <!-- 			
 			
 					<ul>
-					<li class="cat-item cat-item-120"><a href="../category/activity/index.html">Activity</a> (1)
+					<li class="cat-item cat-item-120"><a href="../category/activity/index.php">Activity</a> (1)
 </li>
-	<li class="cat-item cat-item-16"><a href="../category/blog/index.html">Blog</a> (1)
+	<li class="cat-item cat-item-16"><a href="../category/blog/index.php">Blog</a> (1)
 </li>
-	<li class="cat-item cat-item-124"><a href="../category/communication/index.html">Communication</a> (2)
+	<li class="cat-item cat-item-124"><a href="../category/communication/index.php">Communication</a> (2)
 </li>
-	<li class="cat-item cat-item-125"><a href="../category/creativity/index.html">Creativity</a> (2)
+	<li class="cat-item cat-item-125"><a href="../category/creativity/index.php">Creativity</a> (2)
 </li>
-	<li class="cat-item cat-item-123"><a href="../category/psychology/index.html">Psychology</a> (3)
+	<li class="cat-item cat-item-123"><a href="../category/psychology/index.php">Psychology</a> (3)
 </li>
 			</ul> -->
 
-			</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h4 class="widget-title"><span>Tags Cloud</span></h4><div class="tagcloud"><a href="../tag/activities/index.html" class="tag-cloud-link tag-link-164 tag-link-position-1" style="font-size: 22pt;" aria-label="Activities (3 items)">Activities</a>
-<a href="../tag/activity/index.html" class="tag-cloud-link tag-link-127 tag-link-position-2" style="font-size: 8pt;" aria-label="Activity (1 item)">Activity</a>
-<a href="../tag/creative/index.html" class="tag-cloud-link tag-link-128 tag-link-position-3" style="font-size: 8pt;" aria-label="Creative (1 item)">Creative</a>
-<a href="../tag/draw/index.html" class="tag-cloud-link tag-link-162 tag-link-position-4" style="font-size: 8pt;" aria-label="Draw (1 item)">Draw</a>
-<a href="../tag/kindergarten/index.html" class="tag-cloud-link tag-link-126 tag-link-position-5" style="font-size: 8pt;" aria-label="Kindergarten (1 item)">Kindergarten</a>
-<a href="../tag/learning-online/index.html" class="tag-cloud-link tag-link-166 tag-link-position-6" style="font-size: 8pt;" aria-label="Learning Online (1 item)">Learning Online</a>
-<a href="../tag/online/index.html" class="tag-cloud-link tag-link-165 tag-link-position-7" style="font-size: 8pt;" aria-label="Online (1 item)">Online</a>
-<a href="../tag/social/index.html" class="tag-cloud-link tag-link-163 tag-link-position-8" style="font-size: 16.4pt;" aria-label="Social (2 items)">Social</a></div>
+			</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h4 class="widget-title"><span>Tags Cloud</span></h4><div class="tagcloud"><a href="../tag/activities/index.php" class="tag-cloud-link tag-link-164 tag-link-position-1" style="font-size: 22pt;" aria-label="Activities (3 items)">Activities</a>
+<a href="../tag/activity/index.php" class="tag-cloud-link tag-link-127 tag-link-position-2" style="font-size: 8pt;" aria-label="Activity (1 item)">Activity</a>
+<a href="../tag/creative/index.php" class="tag-cloud-link tag-link-128 tag-link-position-3" style="font-size: 8pt;" aria-label="Creative (1 item)">Creative</a>
+<a href="../tag/draw/index.php" class="tag-cloud-link tag-link-162 tag-link-position-4" style="font-size: 8pt;" aria-label="Draw (1 item)">Draw</a>
+<a href="../tag/kindergarten/index.php" class="tag-cloud-link tag-link-126 tag-link-position-5" style="font-size: 8pt;" aria-label="Kindergarten (1 item)">Kindergarten</a>
+<a href="../tag/learning-online/index.php" class="tag-cloud-link tag-link-166 tag-link-position-6" style="font-size: 8pt;" aria-label="Learning Online (1 item)">Learning Online</a>
+<a href="../tag/online/index.php" class="tag-cloud-link tag-link-165 tag-link-position-7" style="font-size: 8pt;" aria-label="Online (1 item)">Online</a>
+<a href="../tag/social/index.php" class="tag-cloud-link tag-link-163 tag-link-position-8" style="font-size: 16.4pt;" aria-label="Social (2 items)">Social</a></div>
 </aside>                    </div>
                 </div>
                                 </div>
@@ -1069,14 +1069,14 @@ Apr 7, 2020
 		</li>
 </ul>
 </div>            </div>
-	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.html">Home</a></li>
-<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.html">Blog</a></li>
-<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.html">Contact</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.html">Our Program</a></li>
-<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.html">Classes</a></li>
-<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.html">Teachers</a></li>
-<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.html">Events</a></li>
+	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.php">Home</a></li>
+<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.php">Blog</a></li>
+<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.php">Contact</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.php">Our Program</a></li>
+<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.php">Classes</a></li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.php">Teachers</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.php">Events</a></li>
 <li id="menu-item-4844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4844"><a href="#__">Privacy policy</a></li>
 <li id="menu-item-4845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4845"><a href="#__">Terms of services</a></li>
 </ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >@ 2023 Copyrights by skudriod All Rights Reserved</mark></h2></div></div></div></div></div></div></div></div></div></div>
@@ -1176,9 +1176,9 @@ var yith_woocompare = {"ajaxurl":"\/giraffe\/?wc-ajax=%%endpoint%%","actionadd":
 /* <![CDATA[ */
 var yolo_framework_app = {"ajax_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php","image_load":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/images\/spinner.gif"};
 var yolo_framework_constant = {"product_compare":"Compare","product_wishList":"WishList","product_wishList_added":"Browse WishList","product_quickview":"Quick View","product_addtocart":"Add To Cart","enter_keyword":"Please enter keyword to search","yolo_all_products":"All products loaded","get_search_url":"https:\/\/demo.yolotheme.com\/giraffe\/?s="};
-var yolo_framework_ajax_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
-var yolo_framework_theme_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
-var yolo_framework_site_url = "index.html\/\/demo.yolotheme.com\/giraffe";
+var yolo_framework_ajax_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
+var yolo_framework_theme_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
+var yolo_framework_site_url = "index.php\/\/demo.yolotheme.com\/giraffe";
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/yolo-giraffe/assets/js/yolo-main.js' id='yolo_framework_app-js'></script>

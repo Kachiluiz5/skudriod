@@ -60,7 +60,7 @@ jQuery( function( $ ) {
 
 				// Labels.
 				if ( typeof fieldLocale.label !== 'undefined' ) {
-					field.find( 'label' ).html( fieldLocale.label );
+					field.find( 'label' ).php( fieldLocale.label );
 				}
 
 				// Placeholders.

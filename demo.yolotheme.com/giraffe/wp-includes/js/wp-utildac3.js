@@ -36,7 +36,7 @@ window.wp = window.wp || {};
 			};
 
 		return function ( data ) {
-			compiled = compiled || _.template( $( '#tmpl-' + id ).html(),  options );
+			compiled = compiled || _.template( $( '#tmpl-' + id ).php(),  options );
 			return compiled( data );
 		};
 	});

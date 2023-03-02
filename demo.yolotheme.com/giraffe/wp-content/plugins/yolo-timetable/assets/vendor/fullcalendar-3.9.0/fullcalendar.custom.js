@@ -807,7 +807,7 @@ function htmlEscape(s) {
         .replace(/"/g, '&quot;')
         .replace(/\n/g, '<br />');
 }
-exports.htmlEscape = htmlEscape;
+exports.phpEscape = htmlEscape;
 function stripHtmlEntities(text) {
     return text.replace(/&.*?;/g, '');
 }
@@ -1734,7 +1734,7 @@ var util_1 = __webpack_require__(4);
 exports.applyAll = util_1.applyAll;
 exports.debounce = util_1.debounce;
 exports.isInt = util_1.isInt;
-exports.htmlEscape = util_1.htmlEscape;
+exports.phpEscape = util_1.phpEscape;
 exports.cssToStr = util_1.cssToStr;
 exports.proxy = util_1.proxy;
 exports.capitaliseFirstLetter = util_1.capitaliseFirstLetter;
@@ -6267,10 +6267,10 @@ var DayTableMixin = /** @class */ (function (_super) {
             innerHtml = t.opt('columnHeaderHtml')(date);
         }
         else if (typeof t.opt('columnHeaderText') === 'function') {
-            innerHtml = util_1.htmlEscape(t.opt('columnHeaderText')(date));
+            innerHtml = util_1.phpEscape(t.opt('columnHeaderText')(date));
         }
         else {
-            innerHtml = util_1.htmlEscape(date.format(t.colHeadFormat));
+            innerHtml = util_1.phpEscape(date.format(t.colHeadFormat));
         }
         // if only one row of days, the classNames on the header can represent the specific days beneath
         if (t.rowCnt === 1) {
@@ -6755,12 +6755,12 @@ var DayGrid = /** @class */ (function (_super) {
         var row;
         var col;
         if (this.headContainerEl) {
-            this.headContainerEl.html(this.renderHeadHtml());
+            this.headContainerEl.php(this.renderHeadHtml());
         }
         for (row = 0; row < rowCnt; row++) {
             html += this.renderDayRowHtml(row, this.isRigid);
         }
-        this.el.html(html);
+        this.el.php(html);
         this.rowEls = this.el.find('.fc-row');
         this.cellEls = this.el.find('.fc-day, .fc-disabled-day');
         this.rowCoordCache = new CoordCache_1.default({
@@ -7219,7 +7219,7 @@ var DayGrid = /** @class */ (function (_super) {
         var content = $('<div class="fc-header ' + theme.getClass('popoverHeader') + '">' +
             '<span class="fc-close ' + theme.getIconClass('close') + '"></span>' +
             '<span class="fc-title">' +
-            util_1.htmlEscape(title) +
+            util_1.phpEscape(title) +
             '</span>' +
             '<div class="fc-clear"/>' +
             '</div>' +
@@ -7357,7 +7357,7 @@ var BasicView = /** @class */ (function (_super) {
     BasicView.prototype.renderSkeleton = function () {
         var dayGridContainerEl;
         var dayGridEl;
-        this.el.addClass('fc-basic-view').html(this.renderSkeletonHtml());
+        this.el.addClass('fc-basic-view').php(this.renderSkeletonHtml());
         this.scroller.render();
         dayGridContainerEl = this.scroller.el.addClass('fc-day-grid-container');
         dayGridEl = $('<div class="fc-day-grid" />').appendTo(dayGridContainerEl);
@@ -7501,7 +7501,7 @@ function makeDayGridSubclass(SuperClass) {
                 return '' +
                     '<th class="fc-week-number ' + view.calendar.theme.getClass('widgetHeader') + '" ' + view.weekNumberStyleAttr() + '>' +
                     '<span>' + // needed for matchCellWidths
-                    util_1.htmlEscape(this.opt('weekNumberTitle')) +
+                    util_1.phpEscape(this.opt('weekNumberTitle')) +
                     '</span>' +
                     '</th>';
             }
@@ -9183,7 +9183,7 @@ var DateComponent = /** @class */ (function (_super) {
         innerHtml = innerHtml || '';
         if (!forceOff && this.opt('navLinks')) {
             return '<a' + attrs +
-                ' data-goto="' + util_1.htmlEscape(JSON.stringify(finalOptions)) + '">' +
+                ' data-goto="' + util_1.phpEscape(JSON.stringify(finalOptions)) + '">' +
                 innerHtml +
                 '</a>';
         }
@@ -9194,7 +9194,7 @@ var DateComponent = /** @class */ (function (_super) {
         }
     };
     DateComponent.prototype.getAllDayHtml = function () {
-        return this.opt('allDayHtml') || util_1.htmlEscape(this.opt('allDayText'));
+        return this.opt('allDayHtml') || util_1.phpEscape(this.opt('allDayText'));
     };
     // Computes HTML classNames for a single-day element
     DateComponent.prototype.getDayClasses = function (date, noThemeHighlight) {
@@ -11369,7 +11369,7 @@ var AgendaView = /** @class */ (function (_super) {
     AgendaView.prototype.renderSkeleton = function () {
         var timeGridWrapEl;
         var timeGridEl;
-        this.el.addClass('fc-agenda-view').html(this.renderSkeletonHtml());
+        this.el.addClass('fc-agenda-view').php(this.renderSkeletonHtml());
         this.scroller.render();
         timeGridWrapEl = this.scroller.el.addClass('fc-time-grid-container');
         timeGridEl = $('<div class="fc-time-grid" />').appendTo(timeGridWrapEl);
@@ -11590,7 +11590,7 @@ agendaTimeGridMethods = {
             return '' +
                 '<th class="fc-axis fc-week-number ' + calendar.theme.getClass('widgetHeader') + '" ' + view.axisStyleAttr() + '>' +
                 view.buildGotoAnchorHtml(// aside from link, important for matchCellWidths
-                { date: weekStart, type: 'week', forceOff: this.colCnt > 1 }, util_1.htmlEscape(weekText) // inner HTML
+                { date: weekStart, type: 'week', forceOff: this.colCnt > 1 }, util_1.phpEscape(weekText) // inner HTML
                 ) +
                 '</th>';
         }
@@ -11766,12 +11766,12 @@ var TimeGrid = /** @class */ (function (_super) {
         this.renderColumns();
     };
     TimeGrid.prototype.unrenderDates = function () {
-        // this.unrenderSlats(); // don't need this because repeated .html() calls clear
+        // this.unrenderSlats(); // don't need this because repeated .php() calls clear
         this.unrenderColumns();
     };
     TimeGrid.prototype.renderSkeleton = function () {
         var theme = this.view.calendar.theme;
-        this.el.html('<div class="fc-bg"></div>' +
+        this.el.php('<div class="fc-bg"></div>' +
             '<div class="fc-slats"></div>' +
             '<hr class="fc-divider ' + theme.getClass('widgetHeader') + '" style="display:none" />');
         this.bottomRuleEl = this.el.find('hr');
@@ -11779,7 +11779,7 @@ var TimeGrid = /** @class */ (function (_super) {
     TimeGrid.prototype.renderSlats = function () {
         var theme = this.view.calendar.theme;
         this.slatContainerEl = this.el.find('> .fc-slats')
-            .html(// avoids needing ::unrenderSlats()
+            .php(// avoids needing ::unrenderSlats()
         '<table class="' + theme.getClass('tableGrid') + '">' +
             this.renderSlatRowHtml() +
             '</table>');
@@ -11821,7 +11821,7 @@ var TimeGrid = /** @class */ (function (_super) {
                 '<td class="fc-axis fc-time ' + theme.getClass('widgetContent') + '" ' + view.axisStyleAttr() + '>' +
                     (isLabeled ?
                         '<span>' + // for matchCellWidths
-                            util_1.htmlEscape(slotDate.format(this.labelFormat)) +
+                            util_1.phpEscape(slotDate.format(this.labelFormat)) +
                             '</span>' :
                         '') +
                     '</td>';
@@ -11845,9 +11845,9 @@ var TimeGrid = /** @class */ (function (_super) {
             return new UnzonedRange_1.default(dayDate.clone().add(dateProfile.minTime), dayDate.clone().add(dateProfile.maxTime));
         });
         if (this.headContainerEl) {
-            this.headContainerEl.html(this.renderHeadHtml());
+            this.headContainerEl.php(this.renderHeadHtml());
         }
-        this.el.find('> .fc-bg').html('<table class="' + theme.getClass('tableGrid') + '">' +
+        this.el.find('> .fc-bg').php('<table class="' + theme.getClass('tableGrid') + '">' +
             this.renderBgTrHtml(0) + // row=0
             '</table>');
         this.colEls = this.el.find('.fc-day, .fc-disabled-day');
@@ -12391,10 +12391,10 @@ var ListView = /** @class */ (function (_super) {
         return segs;
     };
     ListView.prototype.renderEmptyMessage = function () {
-        this.contentEl.html('<div class="fc-list-empty-wrap2">' + // TODO: try less wraps
+        this.contentEl.php('<div class="fc-list-empty-wrap2">' + // TODO: try less wraps
             '<div class="fc-list-empty-wrap1">' +
             '<div class="fc-list-empty">' +
-            util_1.htmlEscape(this.opt('noEventsMessage')) +
+            util_1.phpEscape(this.opt('noEventsMessage')) +
             '</div>' +
             '</div>' +
             '</div>');
@@ -12440,11 +12440,11 @@ var ListView = /** @class */ (function (_super) {
             '<td class="' + (this.calendar.theme.getClass('tableListHeading') ||
             this.calendar.theme.getClass('widgetHeader')) + '" colspan="3">' +
             (mainFormat ?
-                this.buildGotoAnchorHtml(dayDate, { 'class': 'fc-list-heading-main' }, util_1.htmlEscape(dayDate.format(mainFormat)) // inner HTML
+                this.buildGotoAnchorHtml(dayDate, { 'class': 'fc-list-heading-main' }, util_1.phpEscape(dayDate.format(mainFormat)) // inner HTML
                 ) :
                 '') +
             (altFormat ?
-                this.buildGotoAnchorHtml(dayDate, { 'class': 'fc-list-heading-alt' }, util_1.htmlEscape(dayDate.format(altFormat)) // inner HTML
+                this.buildGotoAnchorHtml(dayDate, { 'class': 'fc-list-heading-alt' }, util_1.phpEscape(dayDate.format(altFormat)) // inner HTML
                 ) :
                 '') +
             '</td>' +
@@ -12714,7 +12714,7 @@ var Toolbar = /** @class */ (function () {
                                 theme.getClass('stateDefault')
                             ];
                             if (buttonText) {
-                                buttonInnerHtml = util_1.htmlEscape(buttonText);
+                                buttonInnerHtml = util_1.phpEscape(buttonText);
                                 buttonAriaAttr = '';
                             }
                             else if (buttonIcon) {
@@ -13901,7 +13901,7 @@ var TimeGridEventRenderer = /** @class */ (function (_super) {
         }
         return '<a class="' + classes.join(' ') + '"' +
             (eventDef.url ?
-                ' href="' + util_1.htmlEscape(eventDef.url) + '"' :
+                ' href="' + util_1.phpEscape(eventDef.url) + '"' :
                 '') +
             (skinCss ?
                 ' style="' + skinCss + '"' :
@@ -13910,15 +13910,15 @@ var TimeGridEventRenderer = /** @class */ (function (_super) {
             '<div class="fc-content">' +
             (timeText ?
                 '<div class="fc-time"' +
-                    ' data-start="' + util_1.htmlEscape(startTimeText) + '"' +
-                    ' data-full="' + util_1.htmlEscape(fullTimeText) + '"' +
+                    ' data-start="' + util_1.phpEscape(startTimeText) + '"' +
+                    ' data-full="' + util_1.phpEscape(fullTimeText) + '"' +
                     '>' +
-                    '<span>' + util_1.htmlEscape(timeText) + '</span>' +
+                    '<span>' + util_1.phpEscape(timeText) + '</span>' +
                     '</div>' :
                 '') +
             (eventDef.title ?
                 '<div class="fc-title">' +
-                    util_1.htmlEscape(eventDef.title) +
+                    util_1.phpEscape(eventDef.title) +
                     '</div>' :
                 '') +
             '</div>' +
@@ -14556,16 +14556,16 @@ var DayGridEventRenderer = /** @class */ (function (_super) {
         if (seg.isStart) {
             timeText = this.getTimeText(seg.footprint);
             if (timeText) {
-                timeHtml = '<span class="fc-time">' + util_1.htmlEscape(timeText) + '</span>';
+                timeHtml = '<span class="fc-time">' + util_1.phpEscape(timeText) + '</span>';
             }
         }
         titleHtml =
             '<span class="fc-title">' +
-                (util_1.htmlEscape(eventDef.title || '') || '&nbsp;') + // we always want one line of height
+                (util_1.phpEscape(eventDef.title || '') || '&nbsp;') + // we always want one line of height
                 '</span>';
         return '<a class="' + classes.join(' ') + '"' +
             (eventDef.url ?
-                ' href="' + util_1.htmlEscape(eventDef.url) + '"' :
+                ' href="' + util_1.phpEscape(eventDef.url) + '"' :
                 '') +
             (skinCss ?
                 ' style="' + skinCss + '"' :
@@ -14789,7 +14789,7 @@ var ListEventRenderer = /** @class */ (function (_super) {
         }
         else if (view.isMultiDayRange(componentFootprint.unzonedRange)) {
             if (seg.isStart || seg.isEnd) {
-                timeHtml = util_1.htmlEscape(this._getTimeText(calendar.msToMoment(seg.startMs), calendar.msToMoment(seg.endMs), componentFootprint.isAllDay));
+                timeHtml = util_1.phpEscape(this._getTimeText(calendar.msToMoment(seg.startMs), calendar.msToMoment(seg.endMs), componentFootprint.isAllDay));
             }
             else {
                 timeHtml = view.getAllDayHtml();
@@ -14797,7 +14797,7 @@ var ListEventRenderer = /** @class */ (function (_super) {
         }
         else {
             // Display the normal time text for the *event's* times
-            timeHtml = util_1.htmlEscape(this.getTimeText(eventFootprint));
+            timeHtml = util_1.phpEscape(this.getTimeText(eventFootprint));
         }
         if (url) {
             classes.push('fc-has-url');
@@ -14816,7 +14816,7 @@ var ListEventRenderer = /** @class */ (function (_super) {
             '></span>' +
             '</td>' +
             '<td class="fc-list-item-title ' + theme.getClass('widgetContent') + '">' +
-            '<a' + (url ? ' href="' + util_1.htmlEscape(url) + '"' : '') + '>' +
+            '<a' + (url ? ' href="' + util_1.phpEscape(url) + '"' : '') + '>' +
             (eventDef.title || '') +
             '</a>' +
             '</td>' +

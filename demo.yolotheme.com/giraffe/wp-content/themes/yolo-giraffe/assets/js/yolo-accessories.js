@@ -95,7 +95,7 @@
 			$('.accessory-checkbox .product-check').each(function() {
 				if( $(this).is(':checked') && $(this).data( 'product-type' ) == 'variable' ) {
 					$(this).data( 'price', variation.display_price );
-					$(this).siblings( 'span.accessory-price' ).html( $(variation.price_html).html() );
+					$(this).siblings( 'span.accessory-price' ).php( $(variation.price_html).php() );
 				}
 			});
 		});
@@ -108,7 +108,7 @@
 				url: yolo_accessories_ajax_url,
 				data: { 'action': "yolo_accessory_checked_total_price", 'price': total_price  },
 				success : function( response ) {
-					$( '.total-price-html .amount' ).html( response );
+					$( '.total-price-html .amount' ).php( response );
 				}
 			})
 		});
@@ -121,8 +121,8 @@
 				url: yolo_accessories_ajax_url,
 				data: { 'action': "yolo_accessory_checked_total_price", 'price': total_price  },
 				success : function( response ) {
-					$( '.total-price-html .amount' ).html( response );
-					$( '.total-products' ).html( accessory_checked_count() );
+					$( '.total-price-html .amount' ).php( response );
+					$( '.total-products' ).php( accessory_checked_count() );
 
 					var unchecked_product_ids = accessory_unchecked_product_ids();
 					var unchecked_product_ids = accessory_unchecked_product_ids();
@@ -194,7 +194,7 @@
 				var accerories_alert_msg = yolo_accessories_msg['success'];
 				$(this).removeClass('ac-loading');
 			}
-			$( '.yolo-product-message' ).html(accerories_alert_msg);
+			$( '.yolo-product-message' ).php(accerories_alert_msg);
 		});
 		}
 	});

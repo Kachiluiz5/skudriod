@@ -1018,7 +1018,7 @@ var YOLO = YOLO || {};
                 data: {action: 'update_woocommerce_wishlist'},
                 success: function (response) {
                     var first_icon = wishlist_wrapper.children('i.fa:first');
-                    wishlist_wrapper.html(response);
+                    wishlist_wrapper.php(response);
                     if (first_icon.length > 0) {
                         wishlist_wrapper.prepend(first_icon);
                     }
@@ -1363,9 +1363,9 @@ var YOLO = YOLO || {};
                             var count = t.parents('tbody').find('tr').length;
                             if (count == 1) {
                                 btn.addClass('hidden');
-                                $('.yolo-wishlist span').html('0');
+                                $('.yolo-wishlist span').php('0');
                             } else {
-                                $('.yolo-wishlist span').html(count - 1);
+                                $('.yolo-wishlist span').php(count - 1);
                             }
                         }
                     });
@@ -1578,7 +1578,7 @@ var YOLO = YOLO || {};
             function s_search() {
                 var keyword = $('input[type="search"]', '#yolo-modal-search').val();
                 if (keyword.length < 3) {
-                    $('.ajax-search-result', '#yolo-modal-search').html('');
+                    $('.ajax-search-result', '#yolo-modal-search').php('');
                     return;
                 }
                 $('.ajax-search-icon', '#yolo-modal-search').addClass('fa-spinner fa-spin');
@@ -1630,7 +1630,7 @@ var YOLO = YOLO || {};
                                 html = '';
                             }
                         }
-                        $('.ajax-search-result', '#yolo-modal-search').html(html + html_view_more);
+                        $('.ajax-search-result', '#yolo-modal-search').php(html + html_view_more);
                         $('#yolo-modal-search .ajax-search-result').scrollTop(0);
                     },
                     error: function (data) {
@@ -1657,7 +1657,7 @@ var YOLO = YOLO || {};
                     $('#search-standard', '#yolo-modal-search').val('');
                 }
 
-                $('.ajax-search-result', '#yolo-modal-search').html('');
+                $('.ajax-search-result', '#yolo-modal-search').php('');
             }
         },
         searchPopupClose: function () {
@@ -1730,7 +1730,7 @@ var YOLO = YOLO || {};
                         }
                         var hint_message = $wrapper.attr('data-hint-message');
 
-                        $('.ajax-search-result', $wrapper).html('<ul><li class="no-result">' + hint_message + '</li></ul>');
+                        $('.ajax-search-result', $wrapper).php('<ul><li class="no-result">' + hint_message + '</li></ul>');
                         return;
                     }
                     $('button > i', $form_wrapper).addClass('fa-spinner fa-spin');
@@ -1783,7 +1783,7 @@ var YOLO = YOLO || {};
                                 $($form_wrapper).append('<div class="ajax-search-result"></div>');
                             }
 
-                            $('.ajax-search-result', $wrapper).html(html + html_view_more);
+                            $('.ajax-search-result', $wrapper).php(html + html_view_more);
                             $('.ajax-search-result ul', $wrapper).scrollTop(0);
                         },
                         error: function (data) {
@@ -1888,7 +1888,7 @@ var YOLO = YOLO || {};
                     }
                     var hint_message = $wrapper.attr('data-hint-message');
 
-                    $('.ajax-search-result', $wrapper).html('<ul><li class="no-result">' + hint_message + '</li></ul>');
+                    $('.ajax-search-result', $wrapper).php('<ul><li class="no-result">' + hint_message + '</li></ul>');
                     return;
                 }
                 $('button > i', $wrapper).addClass('fa-spinner fa-spin');
@@ -1940,7 +1940,7 @@ var YOLO = YOLO || {};
                             $($wrapper).append('<div class="ajax-search-result"></div>');
                         }
 
-                        $('.ajax-search-result', $wrapper).html(html + sHtmlViewMore);
+                        $('.ajax-search-result', $wrapper).php(html + sHtmlViewMore);
 
                         $('.ajax-search-result li', $wrapper).hover(function () {
                             $('.ajax-search-result li', $wrapper).removeClass('selected');

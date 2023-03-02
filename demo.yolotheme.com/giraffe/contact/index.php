@@ -14,12 +14,12 @@
 
 
 <link rel="shortcut icon" href="../wp-content/uploads/ICO.png"  style="width: 100%;"/>
-    <title>Gallery &#8211; Giraffe</title>
+    <title>Contact &#8211; Giraffe</title>
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/wp-emoji.js?ver=5.6.10","twemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/twemoji.js?ver=5.6.10"}};
 			/**
@@ -399,14 +399,12 @@ article:hover .grf-post-item {
     font-size: 18px;
 }
 </style>
-<link rel="stylesheet" href="../custom.css">
 <link rel='stylesheet' id='yolo-framework-vc-customize-css'  href='../wp-content/themes/yolo-giraffe/assets/vc-extend/css/vc-customize.css' type='text/css' media='all' />
 <link rel='stylesheet' id='yolo-style-css'  href='../wp-content/themes/yolo-giraffe/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='yolo-commons-fw-css'  href='../wp-content/themes/yolo-giraffe/assets/css/commons.css' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='../wp-content/plugins/js_composer/assets/css/js_composer.mine6df.css?ver=6.5.0' type='text/css' media='all' />
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CFredoka%20One:400%7CGloria%20Hallelujah:400&amp;subset=latin&amp;display=swap&amp;ver=1626591013" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CFredoka%20One:400%7CGloria%20Hallelujah:400&amp;subset=latin&amp;display=swap&amp;ver=1626591013" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CFredoka%20One:400%7CGloria%20Hallelujah:400&amp;subset=latin&amp;display=swap&amp;ver=1626591013" /></noscript><script type='text/javascript' src='../wp-includes/js/jquery/jquery9d52.js?ver=3.5.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrated617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script src="../custom.js"></script>
 <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rbtools.min3f21.js?ver=6.2.23' id='tp-tools-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rs6.min3f21.js?ver=6.2.23' id='revmin-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI44fd.js?ver=2.70' id='jquery-blockui-js'></script>
@@ -417,12 +415,12 @@ var wc_add_to_cart_params = {"ajax_url":"\/giraffe\/wp-admin\/admin-ajax.php","w
 </script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart287d.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1284.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1284.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6.10" />
 <meta name="generator" content="WooCommerce 4.8.0" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../indexbbcb.html?p=1284' />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../indexbbcb.php?p=1284' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed7619.json?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fcontact%2F" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd5cc?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fcontact%2F&amp;format=xml" />
 <meta name="framework" content="Redux 4.1.24" /><style data-type="vc_shortcodes-custom-css">.vc_custom_1594786041912{background: #f8f8f8 url(../wp-content/uploads/2020/07/footer-bg-229f0.jpg?id=4779) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1594972724859{padding-top: 63px !important;padding-bottom: 60px !important;}.vc_custom_1594780069426{padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1593502281735{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594969876977{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594974710294{margin-top: 30px !important;margin-bottom: 33px !important;}.vc_custom_1594780146725{border-top-width: 1px !important;padding-top: 35px !important;padding-bottom: 35px !important;border-top-color: rgba(255,255,255,0.2) !important;border-top-style: solid !important;border-radius: 1px !important;}.vc_custom_1650593824269{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -503,7 +501,7 @@ body.custom-background { background-color: #ffffff; }
 </div>																	
 </div>
 					<div class="header-logo-mobile">
-		<a  href="../index.html" title="Giraffe - Just another WordPress site">
+		<a  href="../index.php" title="Giraffe - Just another WordPress site">
 			<img src="../wp-content/uploads/4.png" alt="SKUDROID" />
 		</a>
 	</div>
@@ -516,18 +514,18 @@ body.custom-background { background-color: #ffffff; }
 
 
 <ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
 </ul>								
 </div>
@@ -544,7 +542,7 @@ body.custom-background { background-color: #ffffff; }
 			<div class="yolo-header-wrapper">
 				<div class="header-left">
 					<div class="header-logo">
-	<a  href="../index.html" title="Giraffe - Just another WordPress site">
+	<a  href="../index.php" title="Giraffe - Just another WordPress site">
 		<img src="../wp-content/uploads/4.png" alt="Giraffe - Just another WordPress site" />
 	</a>
 </div>
@@ -552,18 +550,18 @@ body.custom-background { background-color: #ffffff; }
 				<div class="header-center">
 													<div id="primary-menu" class="menu-wrapper">
 														<ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-															<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-						<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+															<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+						<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 						<ul class="sub-menu animated rotateX">
-							<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-							<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-							<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+							<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+							<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+							<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 						</ul>
 						</li>
-						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-						<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-						<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+						<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+						<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+						<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 						
 						</ul>															</div>
 										</div>
@@ -605,11 +603,11 @@ body.custom-background { background-color: #ffffff; }
                 <div class="container">
                     <div class="page-title-inner block-center">
                         <div class="block-inner">
-                            <h1>Gallery</h1>
+                            <h1>Contact</h1>
                                                     </div>
                     </div>
                                             <div class="yolo-breadcrumb-wrap s-color">
-                            	<ul class="breadcrumbs"><li><a href="../index.html" class="home">Home</a></li><li><span>Gallery</span></li></ul>                        </div>
+                            	<ul class="breadcrumbs"><li><a href="../index.php" class="home">Home</a></li><li><span>Contact</span></li></ul>                        </div>
                     
                                     </div>
             </div>
@@ -624,196 +622,105 @@ body.custom-background { background-color: #ffffff; }
 		<div  class = "yolo-full-width "><div class="vc_row wpb_row vc_row-fluid"><div class="fullwidth" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1544434788653"><div class="wpb_wrapper"><div class="wpb_gmaps_widget wpb_content_element"><div class="wpb_wrapper">
 			
 			
+<div class="shape6">
+                <img src="../wp-content/themes/yolo-giraffe/assets/images/shape/shape6.png" alt="image">
+            </div></div><div class="container clearfix" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-2/5"><div class="vc_column-inner"><div class="wpb_wrapper">        <div class="yolo-sc-text-info sc-text-info-wrap    style2">
+                            <h3 class="sc-title" style="font-size:48px ">
+                    Get In Touch                </h3>
+                                                    <div class="description" >
+                    <p>CONTACT US SO WE CAN HELP YOU!</p>
+                </div>
+                                            <div class="item-content-inner clearfix">
+                                                                                                </div>
 
-
-
-<!-- STYLING FOR MY GALLERY -->
-
-<style>
-    .grid-container{
-        padding: 20px;
-        background-color: #1ec0ff;
-    }
-
-    .gallery-blocks{
-        /* background-color: #adad21; */
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        justify-content: center;
-    }
-
-    .card{
-        width: 300px;
-        height: 250px;
-        border-radius: 7px;
-        gap: 28px;
-    justify-content: center;
-    align-items: center;
-    margin: 5px;
-    }
-
-    .img{
-    width: 100%;
-    }
-</style>
-
-<!-- STYLING ENDS -->
-
-
-
-<!-- GALLERY -->
-
-<div class="grid-container">
-    <div class="container">
-        <div class="gallery-blocks">
-
-           <div class="blocks">
-            <div class="card">
-
-            </div>
-           </div>
-
-           <div class="blocks">
-            <div class="card">
-                
-            </div>
-           </div>
-
-           <div class="blocks">
-            <div class="card">
-                
-            </div>
-           </div>
-
-           <div class="blocks">
-            <div class="card">
-                
-            </div>
-           </div>
+                                                    
         </div>
-
-
-
-        <div class="gallery-blocks">
-
-            <div class="blocks">
-             <div class="card">
- 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
-         </div>
-
-
-         <div class="gallery-blocks">
-
-            <div class="blocks">
-             <div class="card">
- 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
-         </div>
-
-         <div class="gallery-blocks">
-
-            <div class="blocks">
-             <div class="card">
- 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
- 
-            <div class="blocks">
-             <div class="card">
-                 
-             </div>
-            </div>
-         </div>
-    </div>
-</div>
-
-<!-- GALLERY ENDS -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- GALLERY ENDS -->
-
-
-
-
-
-
-
-
+        		<div class="yolo-sc-contact-info sc-contact-info-wrap  style2 ">
+						<div class="contact-info-item ">
+										<div class="info-item-content" style="background-color: #f05c5c;">
+												            <div class="icon-wrap">
+					                <img src="../wp-content/uploads/2018/12/address-contact.png"  class="img-responsive" alt="" />
+					            </div>
+					        
+					        
+					        						        <div class="icon-contents">
+						        							        		<h4 class="icon-label">Address:</h4>
+						        							        											<div class="icon-content"> 33 New Nkisi GRA Onitsha, Anambra</div>
+						        							        </div>
+						    
+						</div>
+										<div class="info-item-content" style="background-color: #fb9130;">
+												            <div class="icon-wrap">
+					                <img src="../wp-content/uploads/2018/12/phone-contact.png"  class="img-responsive" alt="" />
+					            </div>
+					        
+					        
+					        						        <div class="icon-contents">
+						        							        		<h4 class="icon-label">Phone number:</h4>
+						        							        											<div class="icon-content">(+234) 706 235 0036</div>
+						        							        </div>
+						    
+						</div>
+										<div class="info-item-content" style="background-color: #1ec0ff;">
+												            <div class="icon-wrap">
+					                <img src="../wp-content/uploads/2018/12/email-contact.png"  class="img-responsive" alt="" />
+					            </div>
+					        
+					        
+					        						        <div class="icon-contents">
+						        							        		<h4 class="icon-label">Email:</h4>
+						        							        											<div class="icon-content"><a href="#" class="__cf_email__" data-cfemail="">[skudroid@consultant.com]</a></div>
+						        							        </div>
+						    
+						</div>
+										<div class="info-item-content" style="background-color: #87dba2;">
+												            <div class="icon-wrap">
+					                <img src="../wp-content/uploads/2018/12/time-contact.png"  class="img-responsive" alt="" />
+					            </div>
+					        
+					        
+					        						        <div class="icon-contents">
+						        							        		<h4 class="icon-label">Work time:</h4>
+						        							        											<div class="icon-content">Mon - Sat: 8h00 - 17h30.</div>
+						        							        </div>
+						    
+						</div>
+							</div>
+					</div>
 
 		</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3/5"><div class="vc_column-inner"><div class="wpb_wrapper">		<div class="yolo-sc-contact-form sc-contact-form-wrap  style2">
 			<div role="form" class="wpcf7" id="wpcf7-f1245-p1284-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-		</div>
+<form action="https://demo.yolotheme.com/giraffe/contact/#wpcf7-f1245-p1284-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1245" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1245-p1284-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="1284" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="row">
+<div class="col-lg-12 col-md-12">
+			<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name" /></span>
+	</div>
+<div class="col-lg-12 col-md-12">
+			<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your email" /></span>
+	</div>
+<div class="col-lg-12 col-md-12">
+			<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your subject" /></span>
+	</div>
+<div class="col-lg-12 col-md-12">
+			<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Write your message"></textarea></span>
+	</div>
+<div class="col-lg-12 col-md-12">
+		<span class="wpcf7-form-control-wrap acceptance-794"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-794" value="1" aria-invalid="false" class="test" id="test" /><span class="wpcf7-list-item-label">Accept <a href="#__">terms</a> and <a href="#__/">privacy policy</a>.</span></label></span></span></span>
+	</div>
+<div class="col-lg-12 col-md-12">
+            <input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit btn-submit" />
+	</div>
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		</div>
 
 		</div></div></div></div></div></div></div></div></div></div>
 			</div>
@@ -910,14 +817,14 @@ body.custom-background { background-color: #ffffff; }
 		</li>
 </ul>
 </div>            </div>
-	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.html">Home</a></li>
-<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.html">Blog</a></li>
-<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.html">Contact</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.html">Our Program</a></li>
-<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.html">Classes</a></li>
-<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.html">Teachers</a></li>
-<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.html">Events</a></li>
+	</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.php">Home</a></li>
+<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.php">Blog</a></li>
+<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.php">Contact</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.php">Our Program</a></li>
+<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.php">Classes</a></li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.php">Teachers</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.php">Events</a></li>
 <li id="menu-item-4844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4844"><a href="#__">Privacy policy</a></li>
 <li id="menu-item-4845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4845"><a href="#__">Terms of services</a></li>
 </ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >@ 2023 Copyrights by skudriod All Rights Reserved</mark></h2></div></div></div></div></div></div></div></div></div></div>
@@ -1017,9 +924,9 @@ var yith_woocompare = {"ajaxurl":"\/giraffe\/?wc-ajax=%%endpoint%%","actionadd":
 /* <![CDATA[ */
 var yolo_framework_app = {"ajax_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php","image_load":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/images\/spinner.gif"};
 var yolo_framework_constant = {"product_compare":"Compare","product_wishList":"WishList","product_wishList_added":"Browse WishList","product_quickview":"Quick View","product_addtocart":"Add To Cart","enter_keyword":"Please enter keyword to search","yolo_all_products":"All products loaded","get_search_url":"https:\/\/demo.yolotheme.com\/giraffe\/?s="};
-var yolo_framework_ajax_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
-var yolo_framework_theme_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
-var yolo_framework_site_url = "index.html\/\/demo.yolotheme.com\/giraffe";
+var yolo_framework_ajax_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
+var yolo_framework_theme_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
+var yolo_framework_site_url = "index.php\/\/demo.yolotheme.com\/giraffe";
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/yolo-giraffe/assets/js/yolo-main.js' id='yolo_framework_app-js'></script>

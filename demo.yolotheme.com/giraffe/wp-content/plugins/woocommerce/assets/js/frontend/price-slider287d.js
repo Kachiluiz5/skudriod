@@ -8,7 +8,7 @@ jQuery( function( $ ) {
 
 	$( document.body ).bind( 'price_slider_create price_slider_slide', function( event, min, max ) {
 
-		$( '.price_slider_amount span.from' ).html( accounting.formatMoney( min, {
+		$( '.price_slider_amount span.from' ).php( accounting.formatMoney( min, {
 			symbol:    woocommerce_price_slider_params.currency_format_symbol,
 			decimal:   woocommerce_price_slider_params.currency_format_decimal_sep,
 			thousand:  woocommerce_price_slider_params.currency_format_thousand_sep,
@@ -16,7 +16,7 @@ jQuery( function( $ ) {
 			format:    woocommerce_price_slider_params.currency_format
 		} ) );
 
-		$( '.price_slider_amount span.to' ).html( accounting.formatMoney( max, {
+		$( '.price_slider_amount span.to' ).php( accounting.formatMoney( max, {
 			symbol:    woocommerce_price_slider_params.currency_format_symbol,
 			decimal:   woocommerce_price_slider_params.currency_format_decimal_sep,
 			thousand:  woocommerce_price_slider_params.currency_format_thousand_sep,

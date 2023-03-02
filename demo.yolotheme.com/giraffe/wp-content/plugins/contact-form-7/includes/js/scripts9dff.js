@@ -265,11 +265,11 @@
 			}
 
 			$( '.wpcf7-response-output', $form )
-				.html( '' ).append( data.message ).slideDown( 'fast' );
+				.php( '' ).append( data.message ).slideDown( 'fast' );
 
 			$( '.screen-reader-response', $form.closest( '.wpcf7' ) ).each( function() {
 				var $response = $( this );
-				$( '[role="status"]', $response ).html( data.message );
+				$( '[role="status"]', $response ).php( data.message );
 
 				if ( data.invalid_fields ) {
 					$.each( data.invalid_fields, function( i, n ) {
@@ -487,8 +487,8 @@
 		var $form = $( form );
 
 		$form.siblings( '.screen-reader-response' ).each( function() {
-			$( '[role="status"]', this ).html( '' );
-			$( 'ul', this ).html( '' );
+			$( '[role="status"]', this ).php( '' );
+			$( 'ul', this ).php( '' );
 		} );
 
 		$( '.wpcf7-not-valid-tip', $form ).remove();

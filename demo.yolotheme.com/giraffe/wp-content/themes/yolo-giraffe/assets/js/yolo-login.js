@@ -139,7 +139,7 @@
 								beforeSend: function() {
 									$_$.find('>i').removeClass('hide');
 									$_$.find('.yolo-item-wrap').removeClass('validate-error').find('.notice').hide();
-									$_$.closest('.yolo-register-member-action').find('.notice').html('').hide();
+									$_$.closest('.yolo-register-member-action').find('.notice').php('').hide();
 									/**
 									 * Validate field
 									 */
@@ -194,12 +194,12 @@
 										msg_error   = register_member.msg_error;
 
 										$.each(class_error, function(index, class_div) {
-											$('#' + class_div).closest('.yolo-item-wrap').addClass('validate-error').find('.notice').html(msg_error[index]).show();
+											$('#' + class_div).closest('.yolo-item-wrap').addClass('validate-error').find('.notice').php(msg_error[index]).show();
 										});
 
 									}
 
-									$_$.closest('.yolo-register-member-action').find('.notice').html( register_member.msg ).show().addClass(status);
+									$_$.closest('.yolo-register-member-action').find('.notice').php( register_member.msg ).show().addClass(status);
 									
 									if ( status === 'success' ) {
 
@@ -280,7 +280,7 @@
 								beforeSend: function() {
 									$_$.find('>i').removeClass('hide');
 									$_$.find('.yolo-item-wrap').removeClass('validate-error').find('.notice').hide();
-									$_$.closest('.yolo-login-member-action').find('.notice').html('').hide();
+									$_$.closest('.yolo-login-member-action').find('.notice').php('').hide();
 									/**
 									 * Validate field
 									 */
@@ -315,12 +315,12 @@
 										msg_error   = login_member.msg_error;
 
 										$.each(class_error, function(index, class_div) {
-											$('#' + class_div).closest('.yolo-item-wrap').addClass('validate-error').find('.notice').html(msg_error[index]).show();
+											$('#' + class_div).closest('.yolo-item-wrap').addClass('validate-error').find('.notice').php(msg_error[index]).show();
 										});
 
 									}
 
-									$_$.closest('.yolo-login-member-action').find('.notice').html( login_member.msg ).show().addClass(status);
+									$_$.closest('.yolo-login-member-action').find('.notice').php( login_member.msg ).show().addClass(status);
 									
 									if ( status === 'success' ) {
 
@@ -371,9 +371,9 @@
 		            text = yolo_box_login.find('.title').text();
 
 		        if( text == Yolo_Login['label_login'] ){
-		            yolo_box_login.find('.title').html( Yolo_Login['label_register'] );
+		            yolo_box_login.find('.title').php( Yolo_Login['label_register'] );
 		        } else {
-		            yolo_box_login.find('.title').html( Yolo_Login['label_login'] );
+		            yolo_box_login.find('.title').php( Yolo_Login['label_login'] );
 		        }                
 
 		        yolo_box_login.find('.yolo-login-member-container').toggle();

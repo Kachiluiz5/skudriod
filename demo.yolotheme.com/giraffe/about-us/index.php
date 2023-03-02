@@ -18,8 +18,8 @@
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Feed" href="../feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Giraffe &raquo; Comments Feed" href="../comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/wp-emoji.js?ver=5.6.10","twemoji":"https:\/\/demo.yolotheme.com\/giraffe\/wp-includes\/js\/twemoji.js?ver=5.6.10"}};
 			/**
@@ -415,12 +415,12 @@ var wc_add_to_cart_params = {"ajax_url":"\/giraffe\/wp-admin\/admin-ajax.php","w
 </script>
 <script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart287d.js?ver=4.8.0' id='wc-add-to-cart-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte6df.js?ver=6.5.0' id='vc_woocommerce-add-to-cart-js-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1382.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.php" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1382.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6.10" />
 <meta name="generator" content="WooCommerce 4.8.0" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='../index68e8.html?p=1382' />
+<link rel="canonical" href="index.php" />
+<link rel='shortlink' href='../index68e8.php?p=1382' />
 <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed9aae.json?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fabout-us%2F" />
 <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed7ce3?url=https%3A%2F%2Fdemo.yolotheme.com%2Fgiraffe%2Fabout-us%2F&amp;format=xml" />
 <meta name="framework" content="Redux 4.1.24" /><style data-type="vc_shortcodes-custom-css">.vc_custom_1594786041912{background: #f8f8f8 url(../wp-content/uploads/Girls-in-tech.jpg) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1594972724859{padding-top: 63px !important;padding-bottom: 60px !important;}.vc_custom_1594780069426{padding-right: 15px !important;padding-left: 15px !important;}.vc_custom_1593502281735{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594969876977{margin-top: 30px !important;margin-bottom: 30px !important;}.vc_custom_1594974710294{margin-top: 30px !important;margin-bottom: 33px !important;}.vc_custom_1594780146725{border-top-width: 1px !important;padding-top: 35px !important;padding-bottom: 35px !important;border-top-color: rgba(255,255,255,0.2) !important;border-top-style: solid !important;border-radius: 1px !important;}.vc_custom_1650593824269{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -514,7 +514,7 @@ background-position: center !important;background-repeat: no-repeat !important;b
 </div>																	
 </div>
                     <div class="header-logo-mobile">
-        <a  href="../index.html" title="Giraffe - Just another WordPress site">
+        <a  href="../index.php" title="Giraffe - Just another WordPress site">
             <img src="../wp-content/uploads/4.png" alt="SKUDROID" />
         </a>
     </div>
@@ -527,18 +527,18 @@ background-position: center !important;background-repeat: no-repeat !important;b
 
 
 <ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
 </ul>								
 </div>
@@ -551,7 +551,7 @@ background-position: center !important;background-repeat: no-repeat !important;b
 <div class="yolo-header-wrapper">
 <div class="header-left">
     <div class="header-logo">
-<a  href="../index.html" title="Giraffe - Just another WordPress site">
+<a  href="../index.php" title="Giraffe - Just another WordPress site">
 <img src="../wp-content/uploads/4.png" alt="Giraffe - Just another WordPress site" />
 </a>
 </div>
@@ -559,18 +559,18 @@ background-position: center !important;background-repeat: no-repeat !important;b
 <div class="header-right">
                                     <div id="primary-menu" class="menu-wrapper">
                 <ul id="main-menu" class="yolo-main-menu nav-collapse navbar-nav">
-                    <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.html">Home</a></li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.html">Our Program</a><b class="menu-caret"></b>
+                    <li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../home-page-3/index.php">Home</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-3579" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-has-children level-0 "><a href="../classes/index.php">Our Program</a><b class="menu-caret"></b>
 <ul class="sub-menu animated rotateX">
-<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.html">Timetable</a></li>
-<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.html">Our Classes</a></li>
-<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.html">Class Details</a></li>
+<li id="menu-item-2644" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../timetable/index.php">Timetable</a></li>
+<li id="menu-item-3887" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../our-classes/index.php">Our Classes</a></li>
+<li id="menu-item-3828" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-yolo_class level-1 "><a href="../classes/color-match-class/index.php">Class Details</a></li>
 </ul>
 </li>
-<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.html">Gallery</a></li>
-<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.html">Contacts</a></li>
-<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.html">Blog</a></li>
+<li id="menu-item-2645" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../gallery/index.php">Gallery</a></li>
+<li id="menu-item-1430" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-1 "><a href="../contact/index.php">Contacts</a></li>
+<li id="menu-item-2692" class="yolo-menu menu_style_dropdown   menu-item menu-item-type-post_type menu-item-object-page level-0 "><a href="../blog/index.php">Blog</a></li>
 
 </ul>									<div class="header-customize header-customize-nav">
 <div class="search-button-wrapper header-customize-item style-default">
@@ -608,7 +608,7 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                                     </div>
                     </div>
                                             <div class="yolo-breadcrumb-wrap s-color">
-                            	<ul class="breadcrumbs"><li><a href="../index.html" class="home">Home</a></li><li><span>About us</span></li></ul>                        </div>
+                            	<ul class="breadcrumbs"><li><a href="../index.php" class="home">Home</a></li><li><span>About us</span></li></ul>                        </div>
                     
                                     </div>
             </div>
@@ -663,7 +663,7 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                 </div>
                                                                         </div> -->
 
-                                        <div class='yolo-button-wrap' data-text='Discover Now'><a class='button' href="../our-program/index.html">Discover Now</a></div>            
+                                        <div class='yolo-button-wrap' data-text='Discover Now'><a class='button' href="../our-program/index.php">Discover Now</a></div>            
         </div>
         </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">                <div class="sc-video-player-wrap">
             <div id="yolo-video-639af4267801f" class="yolo-sc-video-player " style="height: 435px; background-image: url('../wp-content/uploads/c.jpg');" >
@@ -747,23 +747,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-07.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-07.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-07-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.html" rel="author">
+                                                    <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.php" rel="author">
                                                         Alice Bohm                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/health/index.html" rel="tag">Health</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/health/index.php" rel="tag">Health</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.html" rel="author">
+                                                    <a title="Post by Alice Bohm" href="../teachers/alice-bohm/index.php" rel="author">
                                                         Alice Bohm                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/health/index.html" rel="tag">Health</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/health/index.php" rel="tag">Health</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/alice-bohm/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-07.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/alice-bohm/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-07.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -780,23 +780,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-02.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-02-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Grom Frog" href="../teachers/grom-frog/index.html" rel="author">
+                                                    <a title="Post by Grom Frog" href="../teachers/grom-frog/index.php" rel="author">
                                                         Grom Frog                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.html" rel="tag">Health</a>                                                </div>
+                                                     <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.php" rel="tag">Health</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Grom Frog" href="../teachers/grom-frog/index.html" rel="author">
+                                                    <a title="Post by Grom Frog" href="../teachers/grom-frog/index.php" rel="author">
                                                         Grom Frog                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.html" rel="tag">Health</a>                                                </div>
+                                                     <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/health/index.php" rel="tag">Health</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/grom-frog/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-02.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/grom-frog/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-02.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -813,23 +813,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-01.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-01.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-01-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Emily Backham" href="../teachers/emily-backham/index.html" rel="author">
+                                                    <a title="Post by Emily Backham" href="../teachers/emily-backham/index.php" rel="author">
                                                         Emily Backham                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/math/index.html" rel="tag">Math</a>, <a href="../class-category/science/index.html" rel="tag">Science</a>                                                </div>
+                                                     <a href="../class-category/math/index.php" rel="tag">Math</a>, <a href="../class-category/science/index.php" rel="tag">Science</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Emily Backham" href="../teachers/emily-backham/index.html" rel="author">
+                                                    <a title="Post by Emily Backham" href="../teachers/emily-backham/index.php" rel="author">
                                                         Emily Backham                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/math/index.html" rel="tag">Math</a>, <a href="../class-category/science/index.html" rel="tag">Science</a>                                                </div>
+                                                     <a href="../class-category/math/index.php" rel="tag">Math</a>, <a href="../class-category/science/index.php" rel="tag">Science</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/emily-backham/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-01.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/emily-backham/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-01.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -846,23 +846,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-05.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-05.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-05-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.html" rel="author">
+                                                    <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.php" rel="author">
                                                         Jenny Hilton                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.html" rel="author">
+                                                    <a title="Post by Jenny Hilton" href="../teachers/jenny-hilton/index.php" rel="author">
                                                         Jenny Hilton                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/computer-skills/index.html" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/computer-skills/index.php" rel="tag">Computer Skills</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/jenny-hilton/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-05.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/jenny-hilton/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-05.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -879,23 +879,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-03.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-03.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-03-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by James Doe" href="../teachers/james-doe/index.html" rel="author">
+                                                    <a title="Post by James Doe" href="../teachers/james-doe/index.php" rel="author">
                                                         James Doe                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/health/index.html" rel="tag">Health</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/health/index.php" rel="tag">Health</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by James Doe" href="../teachers/james-doe/index.html" rel="author">
+                                                    <a title="Post by James Doe" href="../teachers/james-doe/index.php" rel="author">
                                                         James Doe                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/health/index.html" rel="tag">Health</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/health/index.php" rel="tag">Health</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/james-doe/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-03.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/james-doe/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-03.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -912,23 +912,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-09.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-09.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-09-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Phill Rose" href="../teachers/phill-rose/index.html" rel="author">
+                                                    <a title="Post by Phill Rose" href="../teachers/phill-rose/index.php" rel="author">
                                                         Phill Rose                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/art/index.html" rel="tag">Art</a>, <a href="../class-category/math/index.html" rel="tag">Math</a>                                                </div>
+                                                     <a href="../class-category/art/index.php" rel="tag">Art</a>, <a href="../class-category/math/index.php" rel="tag">Math</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Phill Rose" href="../teachers/phill-rose/index.html" rel="author">
+                                                    <a title="Post by Phill Rose" href="../teachers/phill-rose/index.php" rel="author">
                                                         Phill Rose                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/art/index.html" rel="tag">Art</a>, <a href="../class-category/math/index.html" rel="tag">Math</a>                                                </div>
+                                                     <a href="../class-category/art/index.php" rel="tag">Art</a>, <a href="../class-category/math/index.php" rel="tag">Math</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/phill-rose/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-09.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/phill-rose/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-09.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -945,23 +945,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-10.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-10.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-10-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Jack Daniels" href="../teachers/jack-daniels/index.html" rel="author">
+                                                    <a title="Post by Jack Daniels" href="../teachers/jack-daniels/index.php" rel="author">
                                                         Jack Daniels                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/language-arts/index.html" rel="tag">Language Arts</a>, <a href="../class-category/math/index.html" rel="tag">Math</a>                                                </div>
+                                                     <a href="../class-category/language-arts/index.php" rel="tag">Language Arts</a>, <a href="../class-category/math/index.php" rel="tag">Math</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Jack Daniels" href="../teachers/jack-daniels/index.html" rel="author">
+                                                    <a title="Post by Jack Daniels" href="../teachers/jack-daniels/index.php" rel="author">
                                                         Jack Daniels                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/language-arts/index.html" rel="tag">Language Arts</a>, <a href="../class-category/math/index.html" rel="tag">Math</a>                                                </div>
+                                                     <a href="../class-category/language-arts/index.php" rel="tag">Language Arts</a>, <a href="../class-category/math/index.php" rel="tag">Math</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/jack-daniels/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-10.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/jack-daniels/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-10.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -978,23 +978,23 @@ background-position: center !important;background-repeat: no-repeat !important;b
                                         <div class="teacher-avatar">
                                             <img width="500" height="600" src="../wp-content/uploads/2018/10/teacher-06.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-06.jpg 500w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/teacher-06-250x300.jpg 250w" sizes="(max-width: 500px) 100vw, 500px" />                                            <div class="teacher-infor-main hidden">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Amy Adams" href="../teachers/amy-adams/index.html" rel="author">
+                                                    <a title="Post by Amy Adams" href="../teachers/amy-adams/index.php" rel="author">
                                                         Amy Adams                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/language-arts/index.html" rel="tag">Language Arts</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/language-arts/index.php" rel="tag">Language Arts</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                             </div>
                                         </div>
                                         <div class="infor-overlay">
                                             <div class="teacher-infor">
                                                 <h4 class="teacher-title">
-                                                    <a title="Post by Amy Adams" href="../teachers/amy-adams/index.html" rel="author">
+                                                    <a title="Post by Amy Adams" href="../teachers/amy-adams/index.php" rel="author">
                                                         Amy Adams                                                    </a>
                                                 </h4>
                                                 <div class="teacher-category">
-                                                     <a href="../class-category/language-arts/index.html" rel="tag">Language Arts</a>, <a href="../class-category/life-skills/index.html" rel="tag">Life Skills</a>                                                </div>
+                                                     <a href="../class-category/language-arts/index.php" rel="tag">Language Arts</a>, <a href="../class-category/life-skills/index.php" rel="tag">Life Skills</a>                                                </div>
                                                 <div class="thumbnail-img">
-                                                    <a class="teacher-avatar-hover" href="../teachers/amy-adams/index.html" style="background-image: url('../wp-content/uploads/2018/10/teacher-06.jpg')">
+                                                    <a class="teacher-avatar-hover" href="../teachers/amy-adams/index.php" style="background-image: url('../wp-content/uploads/2018/10/teacher-06.jpg')">
                                                     </a>
                                                 </div>
                                                                                                                                                     <div class="teacher-social">
@@ -1180,14 +1180,14 @@ background-position: center !important;background-repeat: no-repeat !important;b
     </li>
 </ul>
 </div>            </div>
-</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.html">Home</a></li>
-<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.html">Blog</a></li>
-<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.html">About us</a></li>
-<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.html">Contact</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.html">Our Program</a></li>
-<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.html">Classes</a></li>
-<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.html">Teachers</a></li>
-<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.html">Events</a></li>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594969876977" >Information</h2><div  class="vc_wp_custommenu wpb_content_element menu_columns_2 c-white-80"><div class="widget widget_nav_menu"><div class="menu-menu-information-container"><ul id="menu-menu-information" class="menu"><li id="menu-item-4846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4846"><a href="../index.php">Home</a></li>
+<li id="menu-item-4434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4434"><a href="../blog/index.php">Blog</a></li>
+<li id="menu-item-4435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4435"><a href="../about-us/index.php">About us</a></li>
+<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="../contact/index.php">Contact</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="../our-program/index.php">Our Program</a></li>
+<li id="menu-item-4441" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_class menu-item-4441"><a href="../classes/index.php">Classes</a></li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_teacher menu-item-4442"><a href="../teachers/index.php">Teachers</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type_archive menu-item-object-yolo_event menu-item-4443"><a href="../events/index.php">Events</a></li>
 <li id="menu-item-4844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4844"><a href="#__">Privacy policy</a></li>
 <li id="menu-item-4845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4845"><a href="#__">Terms of services</a></li>
 </ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="font-size: 28px;color: #ffffff;text-align: left; letter-spacing:  normal" class="vc_custom_heading title-footer vc_custom_1594974710294" >Our Gallery</h2><div class="wpb_gallery wpb_content_element vc_clearfix  gallery_columns_4" ><div class="wpb_wrapper"><div class="wpb_gallery_slides wpb_image_grid" data-interval="3"><ul class="wpb_image_grid_ul"><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-06.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-06-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-06-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/event-01.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/event-01-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/event-01-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-29.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-29-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-29-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-26.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-26-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-26-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-25.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-25-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-25-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-24.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-24-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-24-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-21.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-21-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-21-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li><li class="isotope-item"><a class="prettyphoto" href="../wp-content/uploads/2018/10/class-28.jpg" data-rel="prettyPhoto[rel-678-1959759203]"><img width="150" height="150" src="../wp-content/uploads/2018/10/class-28-150x150.jpg" class="attachment-thumbnail" alt="" loading="lazy" srcset="https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-150x150.jpg 150w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-300x300.jpg 300w, https://demo.yolotheme.com/giraffe/wp-content/uploads/2018/10/class-28-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a></li></ul></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1594780069426"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1594780146725"><div class="wpb_wrapper"><h2 style="font-size: 16px;color: rgba(255,255,255,0.9);line-height: 1;text-align: center; letter-spacing:  normal" class="vc_custom_heading vc_custom_1650593824269" >@ 2023 Copyrights by skudriod All Rights Reserved</mark></h2></div></div></div></div></div></div></div></div></div></div>
@@ -1287,9 +1287,9 @@ var yith_woocompare = {"ajaxurl":"\/giraffe\/?wc-ajax=%%endpoint%%","actionadd":
 /* <![CDATA[ */
 var yolo_framework_app = {"ajax_url":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php","image_load":"https:\/\/demo.yolotheme.com\/giraffe\/wp-admin\/images\/spinner.gif"};
 var yolo_framework_constant = {"product_compare":"Compare","product_wishList":"WishList","product_wishList_added":"Browse WishList","product_quickview":"Quick View","product_addtocart":"Add To Cart","enter_keyword":"Please enter keyword to search","yolo_all_products":"All products loaded","get_search_url":"https:\/\/demo.yolotheme.com\/giraffe\/?s="};
-var yolo_framework_ajax_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
-var yolo_framework_theme_url = "index.html\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
-var yolo_framework_site_url = "index.html\/\/demo.yolotheme.com\/giraffe";
+var yolo_framework_ajax_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-admin\/admin-ajax.php?activate-multi=true";
+var yolo_framework_theme_url = "index.php\/\/demo.yolotheme.com\/giraffe\/wp-content\/themes\/yolo-giraffe";
+var yolo_framework_site_url = "index.php\/\/demo.yolotheme.com\/giraffe";
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/yolo-giraffe/assets/js/yolo-main.js' id='yolo_framework_app-js'></script>

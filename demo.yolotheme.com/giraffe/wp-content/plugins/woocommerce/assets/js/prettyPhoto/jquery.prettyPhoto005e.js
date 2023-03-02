@@ -200,7 +200,7 @@
 			// Rebuild Facebook Like Button with updated href
 			if(settings.social_tools){
 				facebook_like_link = settings.social_tools.replace('{location_href}', encodeURIComponent(location.href));
-				$pp_pic_holder.find('.pp_social').html(facebook_like_link);
+				$pp_pic_holder.find('.pp_social').php(facebook_like_link);
 			}
 
 			// Fade the content in
@@ -212,7 +212,7 @@
 
 			// Set the description
 			if(typeof pp_descriptions[set_position] != 'undefined' && pp_descriptions[set_position] != ""){
-				$pp_pic_holder.find('.pp_description').show().html(unescape(pp_descriptions[set_position]));
+				$pp_pic_holder.find('.pp_description').show().php(unescape(pp_descriptions[set_position]));
 			}else{
 				$pp_pic_holder.find('.pp_description').hide();
 			}
@@ -229,7 +229,7 @@
 			// Fade the holder
 			$pp_pic_holder.fadeIn(function(){
 				// Set the title
-				(settings.show_title && pp_titles[set_position] != "" && typeof pp_titles[set_position] != "undefined") ? $ppt.html(unescape(pp_titles[set_position])) : $ppt.html('&nbsp;');
+				(settings.show_title && pp_titles[set_position] != "" && typeof pp_titles[set_position] != "undefined") ? $ppt.php(unescape(pp_titles[set_position])) : $ppt.php('&nbsp;');
 
 				imgPreloader = "";
 				skipInjection = false;
@@ -357,7 +357,7 @@
 						pp_dimensions = _fitToViewport($(myClone).width(),$(myClone).height());
 						doresize = true; // Reset the dimensions
 						$(myClone).remove();
-						toInject = settings.inline_markup.replace(/{content}/g,$(pp_images[set_position]).html());
+						toInject = settings.inline_markup.replace(/{content}/g,$(pp_images[set_position]).php());
 					break;
 				};
 

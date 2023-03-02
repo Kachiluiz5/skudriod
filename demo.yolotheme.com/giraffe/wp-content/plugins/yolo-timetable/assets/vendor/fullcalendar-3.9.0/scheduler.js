@@ -614,7 +614,7 @@ var TimelineView = /** @class */ (function (_super) {
         if (this.opt('eventOverlap') === false) {
             this.el.addClass('fc-no-overlap');
         }
-        this.el.html(this.renderSkeletonHtml());
+        this.el.php(this.renderSkeletonHtml());
         this.timeHeadEl = this.el.find('thead .fc-time-area');
         this.timeBodyEl = this.el.find('tbody .fc-time-area');
         this.timeHeadScroller = new ClippedScroller_1.default({
@@ -689,9 +689,9 @@ var TimelineView = /** @class */ (function (_super) {
         this.slotDates = slotDates;
         this.updateGridDates();
         var slatHtmlRes = this.renderSlatHtml();
-        this.timeHeadScroller.canvas.contentEl.html(slatHtmlRes.headHtml);
+        this.timeHeadScroller.canvas.contentEl.php(slatHtmlRes.headHtml);
         this.timeHeadColEls = this.timeHeadScroller.canvas.contentEl.find('col');
-        this.slatContainerEl.html(slatHtmlRes.bodyHtml);
+        this.slatContainerEl.php(slatHtmlRes.bodyHtml);
         this.slatColEls = this.slatContainerEl.find('col');
         this.slatEls = this.slatContainerEl.find('td');
         this.slatCoordCache = new fullcalendar_1.CoordCache({
@@ -840,7 +840,7 @@ var TimelineView = /** @class */ (function (_super) {
             forceOff: !rowUnit
         }, {
             'class': 'fc-cell-text'
-        }, fullcalendar_1.htmlEscape(text));
+        }, fullcalendar_1.phpEscape(text));
         return { text: text, spanHtml: spanHtml, date: date, colspan: 1 };
     };
     TimelineView.prototype.slatCellHtml = function (date, isEm) {
@@ -1466,18 +1466,18 @@ var TimelineEventRenderer = /** @class */ (function (_super) {
         var timeText = this.getTimeText(seg.footprint);
         return '<a class="' + classes.join(' ') + '" style="' + fullcalendar_1.cssToStr(this.getSkinCss(seg.footprint.eventDef)) + '"' +
             (eventDef.url ?
-                ' href="' + fullcalendar_1.htmlEscape(eventDef.url) + '"' :
+                ' href="' + fullcalendar_1.phpEscape(eventDef.url) + '"' :
                 '') +
             '>' +
             '<div class="fc-content">' +
             (timeText ?
                 '<span class="fc-time">' +
-                    fullcalendar_1.htmlEscape(timeText) +
+                    fullcalendar_1.phpEscape(timeText) +
                     '</span>'
                 :
                     '') +
             '<span class="fc-title">' +
-            (eventDef.title ? fullcalendar_1.htmlEscape(eventDef.title) : '&nbsp;') +
+            (eventDef.title ? fullcalendar_1.phpEscape(eventDef.title) : '&nbsp;') +
             '</span>' +
             '</div>' +
             '<div class="fc-bg" />' +
@@ -2212,7 +2212,7 @@ var ResourceDayTableMixin = /** @class */ (function (_super) {
                 ' colspan="' + colspan + '"' :
                 '') +
             '>' +
-            fullcalendar_1.htmlEscape(this.view.getResourceText(resource)) +
+            fullcalendar_1.phpEscape(this.view.getResourceText(resource)) +
             '</th>';
     };
     // given a date and a required resource
@@ -3869,7 +3869,7 @@ var EventRow = /** @class */ (function (_super) {
     }
     EventRow.prototype.renderEventSkeleton = function (tr) {
         var theme = this.view.calendar.theme;
-        tr.html("<td class=\"" + theme.getClass('widgetContent') + "\"> <div> <div class=\"fc-event-container\" /> </div> </td>");
+        tr.php("<td class=\"" + theme.getClass('widgetContent') + "\"> <div> <div class=\"fc-event-container\" /> </div> </td>");
         this.segContainerEl = tr.find('.fc-event-container');
         this.innerEl = (this.bgSegContainerEl = tr.find('td > div'));
     };
@@ -4588,12 +4588,12 @@ var Spreadsheet = /** @class */ (function () {
         });
         this.headScroller.canvas = new ScrollerCanvas_1.default();
         this.headScroller.render();
-        this.headScroller.canvas.contentEl.html(this.renderHeadHtml());
+        this.headScroller.canvas.contentEl.php(this.renderHeadHtml());
         this.headEl.append(this.headScroller.el);
         this.bodyScroller = new ClippedScroller_1.default({ overflowY: 'clipped-scroll' });
         this.bodyScroller.canvas = new ScrollerCanvas_1.default();
         this.bodyScroller.render();
-        this.bodyScroller.canvas.contentEl.html("<div class=\"fc-rows\"> <table class=\"" + theme.getClass('tableGrid') + "\">" + this.colGroupHtml + "<tbody/> </table> </div>"); // colGroupHtml hack
+        this.bodyScroller.canvas.contentEl.php("<div class=\"fc-rows\"> <table class=\"" + theme.getClass('tableGrid') + "\">" + this.colGroupHtml + "<tbody/> </table> </div>"); // colGroupHtml hack
         this.tbodyEl = this.bodyScroller.canvas.contentEl.find('tbody');
         this.el.append(this.bodyScroller.el);
         this.scrollJoiner = new ScrollJoiner_1.default('horizontal', [this.headScroller, this.bodyScroller]);
@@ -4630,7 +4630,7 @@ var Spreadsheet = /** @class */ (function () {
                     '<th class="' + theme.getClass('widgetHeader') + '" colspan="' + colSpecs.length + '">' +
                     '<div class="fc-cell-content">' +
                     '<span class="fc-cell-text">' +
-                    fullcalendar_1.htmlEscape(this.view.superHeaderText) +
+                    fullcalendar_1.phpEscape(this.view.superHeaderText) +
                     '</span>' +
                     '</div>' +
                     '</th>' +
@@ -4650,7 +4650,7 @@ var Spreadsheet = /** @class */ (function () {
                             '</span>' :
                         '') +
                     '<span class="fc-cell-text">' +
-                    fullcalendar_1.htmlEscape(o.labelText || '') + // what about normalizing this value ahead of time?
+                    fullcalendar_1.phpEscape(o.labelText || '') + // what about normalizing this value ahead of time?
                     '</span>' +
                     '</div>' +
                     (!isLast ? '<div class="fc-col-resizer"></div>' : '') +
@@ -4924,7 +4924,7 @@ var ResourceRow = /** @class */ (function (_super) {
             var contentEl = $('<div class="fc-cell-content">' +
                 (colSpec.isMain ? this.renderGutterHtml() : '') +
                 '<span class="fc-cell-text">' +
-                (text ? fullcalendar_1.htmlEscape(text) : '&nbsp;') +
+                (text ? fullcalendar_1.phpEscape(text) : '&nbsp;') +
                 '</span>' +
                 '</div>');
             if (typeof colSpec.render === 'function') { // a filter function for the element
@@ -5832,11 +5832,11 @@ function isValidKey(key) {
 }
 exports.isValidKey = isValidKey;
 function isImmuneUrl(url) {
-    return /\w+\:\/\/fullcalendar\.io\/|\/demos\/[\w-]+\.html$/.test(url);
+    return /\w+\:\/\/fullcalendar\.io\/|\/demos\/[\w-]+\.php$/.test(url);
 }
 exports.isImmuneUrl = isImmuneUrl;
 function renderingWarningInContainer(messageHtml, containerEl) {
-    return containerEl.append($('<div class="fc-license-message" />').html(messageHtml));
+    return containerEl.append($('<div class="fc-license-message" />').php(messageHtml));
 }
 exports.renderingWarningInContainer = renderingWarningInContainer;
 // returns boolean of whether a license message is already rendered
